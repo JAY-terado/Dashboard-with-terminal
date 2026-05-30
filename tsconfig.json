@@ -30,7 +30,7 @@
         "src/app/shared*"
       ],
       "@core/*": [
-        "../packages/isomorphic-core/src/*"
+        "./packages/isomorphic-core/src/*"
       ]
     },
     "plugins": [
