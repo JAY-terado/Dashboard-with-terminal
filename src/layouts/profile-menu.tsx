@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Text, Avatar, Button, Popover } from 'rizzui';
+import { Title, Text, Avatar, Button, Popover } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { routes } from '@/config/routes';
 import { signOut } from 'next-auth/react';

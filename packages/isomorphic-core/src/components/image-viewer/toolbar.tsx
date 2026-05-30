@@ -2,7 +2,7 @@
 
 import { ChangeEvent } from "react";
 import { useImageViewer } from "./storage";
-import { ActionIcon, FileInput } from "rizzui";
+import { ActionIcon, FileInput } from "@/components/rizzui";
 import { PiChatCircleFill } from "react-icons/pi";
 
 export default function ToolBar({ onClick }: { onClick?: () => void }) {

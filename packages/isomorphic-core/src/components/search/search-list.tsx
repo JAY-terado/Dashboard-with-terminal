@@ -2,7 +2,7 @@
 
 import { Fragment, useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import { ActionIcon, Empty, SearchNotFoundIcon, Button, Title, Input, cn } from "rizzui";
+import { ActionIcon, Empty, SearchNotFoundIcon, Button, Title, Input, cn } from "@/components/rizzui";
 import { PiFileTextDuotone, PiMagnifyingGlassBold, PiXBold } from "react-icons/pi";
 import { pageLinks } from "./page-links.data";
 

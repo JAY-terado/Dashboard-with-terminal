@@ -1,6 +1,6 @@
 "use client";
 
-import { Title, Text, ActionIcon, Button, Popover } from "rizzui";
+import { Title, Text, ActionIcon, Button, Popover } from "@/components/rizzui";
 import TrashIcon from "@core/components/icons/trash";
 import { PiTrashFill } from "react-icons/pi";
 

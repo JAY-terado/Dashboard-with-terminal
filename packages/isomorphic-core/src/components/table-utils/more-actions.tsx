@@ -6,7 +6,7 @@ import {
   PiTrashSimple,
   PiDotsThreeOutlineVerticalFill,
 } from "react-icons/pi";
-import { ActionIcon, Box, Button, Popover } from "rizzui";
+import { ActionIcon, Box, Button, Popover } from "@/components/rizzui";
 
 export function MoreActions({ onDelete }: { onDelete?: () => void }) {
   return (

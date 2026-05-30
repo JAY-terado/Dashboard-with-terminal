@@ -9,7 +9,7 @@ import relativeTime from 'dayjs/plugin/relativeTime';
 import Link from 'next/link';
 import { RefObject, useState } from 'react';
 import { PiCheck } from 'react-icons/pi';
-import { Avatar, Badge, Popover, Text, Title } from 'rizzui';
+import { Avatar, Badge, Popover, Text, Title } from "@/components/rizzui";
 
 dayjs.extend(relativeTime);
 

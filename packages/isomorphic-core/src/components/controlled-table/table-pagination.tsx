@@ -2,7 +2,7 @@
 
 import { PiCaretDownBold } from "react-icons/pi";
 import Pagination, { type PaginationProps } from "@core/ui/pagination";
-import { Select } from "rizzui";
+import { Select } from "@/components/rizzui";
 import cn from "@core/utils/class-names";
 
 const paginationLimitOptions = [5, 10, 15, 20, 25].map((v, idx) => ({

@@ -1,6 +1,6 @@
 "use client";
 
-import { TableVariantProps } from "rizzui";
+import { TableVariantProps } from "@/components/rizzui";
 import {
   Row,
   Cell,

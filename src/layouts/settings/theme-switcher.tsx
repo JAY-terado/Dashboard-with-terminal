@@ -2,7 +2,7 @@
 
 import { useTheme } from 'next-themes';
 import { siteConfig } from '@/config/site.config';
-import { RadioGroup } from "rizzui";
+import { RadioGroup } from "@/components/rizzui";
 import { updateThemeColor } from '@core/utils/update-theme-color';
 import { presetDark, presetLight } from '@/config/color-presets';
 import { useEffect } from 'react';

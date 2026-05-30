@@ -1,6 +1,6 @@
 "use client";
 
-import { Badge, Flex, Text } from "rizzui";
+import { Badge, Flex, Text } from "@/components/rizzui";
 
 export function getEngagementRate(engagementRate: number) {
   if (engagementRate > 70) {

@@ -1,6 +1,6 @@
 "use client";
 
-import { Button } from "rizzui";
+import { Button } from "@/components/rizzui";
 import { Fragment } from "react";
 import cn from "../../../utils/class-names";
 import { DragEndEvent } from "@dnd-kit/core";

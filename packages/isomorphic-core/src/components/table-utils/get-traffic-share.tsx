@@ -1,6 +1,6 @@
 "use client";
 
-import { Badge, Text } from "rizzui";
+import { Badge, Text } from "@/components/rizzui";
 
 export function getTrafficShare(trafficShare: number) {
   if (trafficShare > 70) {

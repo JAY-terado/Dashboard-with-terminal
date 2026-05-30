@@ -5,7 +5,7 @@ import { useTheme } from "next-themes";
 import { Loader } from "@googlemaps/js-api-loader";
 import { useEffect, useRef, useState } from "react";
 import { atomWithReset, useResetAtom } from "jotai/utils";
-import { Input, InputProps, Loader as Spinner } from "rizzui";
+import { Input, InputProps, Loader as Spinner } from "@/components/rizzui";
 import cn from "@core/utils/class-names";
 import { darkMode } from "../google-map/map-styles";
 

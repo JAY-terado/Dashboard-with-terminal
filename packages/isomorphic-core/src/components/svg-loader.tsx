@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Loader } from "rizzui";
+import { Loader } from "@/components/rizzui";
 
 export default function SVGLoader({ fileName }: { fileName: string }) {
   const SvgComponent = React.lazy(() => import(`./icons/${fileName}`));

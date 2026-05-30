@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import WishlistButton from "../wishlist-button";
 import { generateSlug } from "../../utils/generate-slug";
-import { Title, Text } from "rizzui";
+import { Title, Text } from "@/components/rizzui";
 import { Product } from "../../types";
 import { toCurrency } from "../../utils/to-currency";
 

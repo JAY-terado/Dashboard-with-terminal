@@ -3,7 +3,7 @@
 import Image from "next/image";
 import dayjs from "dayjs";
 import { PiStar, PiStarFill } from "react-icons/pi";
-import { Title, Text } from "rizzui";
+import { Title, Text } from "@/components/rizzui";
 
 type ReviewCardProps = {
   customer: {

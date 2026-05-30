@@ -1,6 +1,6 @@
 "use client";
 
-import { Button, Text } from "rizzui";
+import { Button, Text } from "@/components/rizzui";
 import { Table as ReactTableType } from "@tanstack/react-table";
 
 interface TableToolbarProps<TData extends Record<string, any>> {

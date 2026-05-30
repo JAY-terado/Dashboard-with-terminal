@@ -1,5 +1,5 @@
 'use client';
-import { Avatar, Button, Popover, Title, Text } from 'rizzui';
+import { Avatar, Button, Popover, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { ReactNode, useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';

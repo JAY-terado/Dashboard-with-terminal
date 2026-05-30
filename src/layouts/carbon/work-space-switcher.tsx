@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Text, Avatar, Select, type SelectOption } from 'rizzui';
+import { Text, Avatar, Select, type SelectOption } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 const customOptions: SelectOption[] = [

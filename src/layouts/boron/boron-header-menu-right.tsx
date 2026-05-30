@@ -1,5 +1,5 @@
 'use client';
-import { Badge, ActionIcon } from 'rizzui';
+import { Badge, ActionIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import MessagesDropdown from '@/layouts/messages-dropdown';
 import NotificationDropdown from '@/layouts/notification-dropdown';

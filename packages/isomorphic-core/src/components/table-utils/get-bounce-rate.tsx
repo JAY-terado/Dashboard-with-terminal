@@ -1,6 +1,6 @@
 "use client";
 
-import { Badge, Flex, Text } from "rizzui";
+import { Badge, Flex, Text } from "@/components/rizzui";
 
 export function getBounceRate(bounceRate: number) {
   if (bounceRate > 30) {

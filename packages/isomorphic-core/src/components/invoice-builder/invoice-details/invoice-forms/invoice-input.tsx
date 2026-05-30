@@ -2,7 +2,7 @@
 
 import cn from "@core/utils/class-names";
 import { forwardRef } from "react";
-import { Input, InputProps } from "rizzui";
+import { Input, InputProps } from "@/components/rizzui";
 
 export const InvoiceInput = forwardRef<HTMLInputElement, InputProps>(
   ({ inputClassName, ...props }, ref) => {

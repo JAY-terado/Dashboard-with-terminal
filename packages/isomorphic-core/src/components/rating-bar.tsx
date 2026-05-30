@@ -1,6 +1,6 @@
 "use client";
 
-import { Box, Flex, Text } from "rizzui";
+import { Box, Flex, Text } from "@/components/rizzui";
 
 type RatingProgressProps = {
   ratingCount: number;

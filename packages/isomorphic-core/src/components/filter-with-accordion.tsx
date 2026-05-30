@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { Disclosure } from "@headlessui/react";
-import { Checkbox, CheckboxGroup, Collapse, Tooltip, Button } from "rizzui";
+import { Checkbox, CheckboxGroup, Collapse, Tooltip, Button } from "@/components/rizzui";
 import cn from "../utils/class-names";
 import { PiCaretDownBold, PiPlusBold } from "react-icons/pi";
 import { generateSlug } from "../utils/generate-slug";

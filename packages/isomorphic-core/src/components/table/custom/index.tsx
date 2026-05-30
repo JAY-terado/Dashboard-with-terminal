@@ -4,7 +4,7 @@ import Image from "next/image";
 import cn from "@core/utils/class-names";
 import { CSS } from "@dnd-kit/utilities";
 import { CSSProperties, Fragment } from "react";
-import { ActionIcon, Flex, Table, Text, Title } from "rizzui";
+import { ActionIcon, Flex, Table, Text, Title } from "@/components/rizzui";
 import { getColumnOptions } from "../util";
 import { Cell, Header, Row, flexRender } from "@tanstack/react-table";
 import {

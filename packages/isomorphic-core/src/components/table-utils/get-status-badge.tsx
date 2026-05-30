@@ -1,7 +1,7 @@
 "use client";
 
 import cn from "@core/utils/class-names";
-import { Badge, Flex, Text } from "rizzui";
+import { Badge, Flex, Text } from "@/components/rizzui";
 import { replaceUnderscoreDash } from "@core/utils/replace-underscore-dash";
 
 const statusColors = {

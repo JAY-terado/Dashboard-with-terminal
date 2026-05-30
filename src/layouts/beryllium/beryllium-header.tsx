@@ -9,7 +9,7 @@ import Sidebar from '@/layouts/beryllium/beryllium-sidebar-drawer';
 import HeaderMenuRight from '@/layouts/header-menu-right';
 import StickyHeader from '@/layouts/sticky-header';
 import SearchWidget from '@/app/shared/search/search';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import { PiPlusBold } from 'react-icons/pi';
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import { useWorkspaces } from '@/app/(beryllium)/presales/_components/workspace/workspace-atoms';

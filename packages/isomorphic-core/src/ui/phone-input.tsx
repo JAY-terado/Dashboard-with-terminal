@@ -1,7 +1,7 @@
 'use client';
 
 import PhoneInput, { type PhoneInputProps } from 'react-phone-input-2';
-import { cn, FieldError, FieldHelperText, FieldClearButton } from 'rizzui';
+import { cn, FieldError, FieldHelperText, FieldClearButton } from "@/components/rizzui";
 import 'react-phone-input-2/lib/style.css';
 
 const labelClasses = {

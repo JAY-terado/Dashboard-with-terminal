@@ -9,7 +9,7 @@ import {
   Select,
   SelectOption,
   Text,
-} from "rizzui";
+} from "@/components/rizzui";
 import {
   PiCaretLeftBold,
   PiCaretRightBold,

@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 import dynamic from 'next/dynamic';
 import { useDirection } from '@core/hooks/use-direction';
 import CogSolidIcon from '@core/components/icons/cog-solid';
-import { ActionIcon } from 'rizzui';
+import { ActionIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import DrawerHeader from '@/layouts/drawer-header';
 import { usePresets } from '@/config/color-presets';

@@ -8,7 +8,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Fragment } from 'react';
 import { PiCaretDownBold } from 'react-icons/pi';
-import { Collapse, Title } from 'rizzui';
+import { Collapse, Title } from "@/components/rizzui";
 import PresalesSidebarGroup from './presales-sidebar-group';
 
 export default function Sidebar({ className }: { className?: string }) {

@@ -14,7 +14,7 @@ import {
   PiHouseLine,
   PiTerminalWindowBold,
 } from 'react-icons/pi';
-import { Collapse } from 'rizzui';
+import { Collapse } from "@/components/rizzui";
 
 /**
  * A specialised sidebar group for the Pre-Sales section.

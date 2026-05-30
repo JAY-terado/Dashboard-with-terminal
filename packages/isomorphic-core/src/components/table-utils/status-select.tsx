@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { PiCheckCircleBold, PiClockBold, PiPlusCircle } from "react-icons/pi";
-import { Select, SelectOption, Text } from "rizzui";
+import { Select, SelectOption, Text } from "@/components/rizzui";
 
 export function StatusSelect({
   selectItem,

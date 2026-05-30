@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Title } from "rizzui";
+import { Title } from "@/components/rizzui";
 import cn from "../../utils/class-names";
 
 type BannerCardProps = {

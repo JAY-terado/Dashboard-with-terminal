@@ -5,7 +5,7 @@ import AppDirection from '@/layouts/settings/app-direction';
 import ColorOptions from '@/layouts/settings/color-options';
 import ThemeSwitcher from '@/layouts/settings/theme-switcher';
 import EnvatoIcon from '@core/components/icons/envato';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 
 export default function SettingsDrawer() {
   return (

@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge, ActionIcon } from 'rizzui';
+import { Badge, ActionIcon } from "@/components/rizzui";
 import MessagesDropdown from '@/layouts/messages-dropdown';
 import ProfileMenu from '@/layouts/profile-menu';
 import SettingsButton from '@/layouts/settings-button';

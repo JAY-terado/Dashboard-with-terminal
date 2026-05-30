@@ -1,6 +1,6 @@
 'use client';
 
-import { RadioGroup } from 'rizzui';
+import { RadioGroup } from "@/components/rizzui";
 import { useLayout } from '@/layouts/use-layout';
 import { LAYOUT_OPTIONS } from '@/config/enums';
 import RadioBox from '@/layouts/settings/radio-box';

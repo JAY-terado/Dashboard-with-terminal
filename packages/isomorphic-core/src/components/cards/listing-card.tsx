@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { Title, Text } from "rizzui";
+import { Title, Text } from "@/components/rizzui";
 import cn from "../../utils/class-names";
 import Link from "next/link";
 import { PiStarFill } from "react-icons/pi";

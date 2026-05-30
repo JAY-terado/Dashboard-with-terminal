@@ -1,7 +1,7 @@
 "use client";
 
 import { PiPushPin, PiPushPinSlash } from "react-icons/pi";
-import { ActionIcon, Tooltip } from "rizzui";
+import { ActionIcon, Tooltip } from "@/components/rizzui";
 
 export function PinningActions({
   isPinned,

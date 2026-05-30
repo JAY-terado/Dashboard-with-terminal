@@ -1,7 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
-import { Loader } from "rizzui";
+import { Loader } from "@/components/rizzui";
 
 const NoSSR = ({ children }: { children: React.ReactNode }) => <>{children}</>;
 

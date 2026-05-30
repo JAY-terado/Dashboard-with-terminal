@@ -15,7 +15,7 @@ import { useAtom, useSetAtom } from 'jotai';
 import { usePathname } from 'next/navigation';
 import { useEffect } from 'react';
 import { PiTextIndent } from 'react-icons/pi';
-import { ActionIcon } from 'rizzui';
+import { ActionIcon } from "@/components/rizzui";
 
 function MenuItem({ menu }: { menu: MenuItemsType }) {
   const { expandedLeft, setExpandedLeft } = useBerylliumSidebars();

@@ -7,7 +7,7 @@ import relativeTime from 'dayjs/plugin/relativeTime';
 import Link from 'next/link';
 import { ReactElement, ReactNode, RefObject, useState } from 'react';
 import { PiCheck } from 'react-icons/pi';
-import { Badge, Checkbox, Popover, Text, Title } from 'rizzui';
+import { Badge, Checkbox, Popover, Text, Title } from "@/components/rizzui";
 
 dayjs.extend(relativeTime);
 

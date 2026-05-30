@@ -13,7 +13,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Fragment } from 'react';
 import { PiCaretDownBold } from 'react-icons/pi';
-import { Collapse } from 'rizzui';
+import { Collapse } from "@/components/rizzui";
 import PresalesSidebarGroup from './presales-sidebar-group';
 
 function LinkMenuItem({ item }: { item: ItemType }) {

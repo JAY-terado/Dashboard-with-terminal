@@ -1,6 +1,6 @@
 "use client";
 
-import { Text, Avatar, AvatarProps } from "rizzui";
+import { Text, Avatar, AvatarProps } from "@/components/rizzui";
 import cn from "../utils/class-names";
 
 interface AvatarCardProps {

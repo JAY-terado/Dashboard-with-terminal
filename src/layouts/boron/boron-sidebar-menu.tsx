@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { Fragment } from 'react';
 import { usePathname } from 'next/navigation';
-import { Title, Collapse } from 'rizzui';
+import { Title, Collapse } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiCaretDownBold, PiCommand } from 'react-icons/pi';
 import { menuItems } from '@/layouts/boron/boron-menu-items';

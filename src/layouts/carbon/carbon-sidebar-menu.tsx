@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import React, { ElementType, Fragment, useState } from 'react';
 import { carbonMenuItems } from '@/layouts/carbon/carbon-menu-items';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiCaretDownBold } from 'react-icons/pi';
 import Menu from '@core/ui/carbon-menu/dropdown/menu';

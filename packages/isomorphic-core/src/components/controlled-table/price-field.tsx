@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Text, Input } from 'rizzui';
+import { Text, Input } from "@/components/rizzui";
 
 type PriceFieldTypes = {
   label?: string;
