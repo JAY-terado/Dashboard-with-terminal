@@ -51,6 +51,14 @@ export interface TableProps
   striped?: boolean;
   /** Add custom classes for extra style */
   className?: string;
+  /** TanStack Table instance (optional) */
+  table?: any;
+  /** Additional classNames (optional) */
+  classNames?: any;
+  /** Custom components (optional) */
+  components?: any;
+  /** Sticky header (optional) */
+  stickyHeader?: boolean;
 }
 
 /**
