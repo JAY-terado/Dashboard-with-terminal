@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { AdvancedRadio } from "@/components/rizzui";
+import { AdvancedRadio } from "rizzui";
 import cn from "../../utils/class-names";
 
 type ButtonGroupActionProps = {

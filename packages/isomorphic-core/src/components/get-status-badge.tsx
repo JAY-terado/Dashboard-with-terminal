@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge } from "@/components/rizzui";
+import { Badge } from "rizzui";
 import cn from '../utils/class-names';
 import { useLayout } from '../../../../src/layouts/use-layout';
 

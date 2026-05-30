@@ -1,6 +1,6 @@
 "use client";
 
-import { Button } from "@/components/rizzui";
+import { Button } from "rizzui";
 import cn from "../utils/class-names";
 
 interface FormFooterProps {

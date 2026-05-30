@@ -12,7 +12,7 @@ import {
   Popover,
   Title,
   Text,
-} from "@/components/rizzui";
+} from "rizzui";
 
 export type ExtractProps<T> = T extends React.ComponentType<infer P> ? P : T;
 

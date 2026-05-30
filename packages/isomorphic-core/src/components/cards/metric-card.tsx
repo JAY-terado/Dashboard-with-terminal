@@ -1,6 +1,6 @@
 'use client';
 
-import { Text } from "@/components/rizzui";
+import { Text } from "rizzui";
 import cn from '../../utils/class-names';
 
 const metricCardClasses = {

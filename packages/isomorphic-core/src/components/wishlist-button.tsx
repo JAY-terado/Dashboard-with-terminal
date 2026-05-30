@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Button, Tooltip, ActionIcon } from "@/components/rizzui";
+import { Button, Tooltip, ActionIcon } from "rizzui";
 import cn from '../utils/class-names';
 import { PiHeartBold, PiHeartFill } from 'react-icons/pi';
 

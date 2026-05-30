@@ -1,7 +1,7 @@
 "use client";
 
 import { PiTextColumns } from "react-icons/pi";
-import { ActionIcon, Checkbox, Popover, Title } from "@/components/rizzui";
+import { ActionIcon, Checkbox, Popover, Title } from "rizzui";
 import { type Table as ReactTableType } from "@tanstack/react-table";
 
 export default function ToggleColumns<TData extends Record<string, any>>({

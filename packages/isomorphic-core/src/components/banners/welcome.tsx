@@ -1,6 +1,6 @@
 "use client";
 
-import { Title, Text } from "@/components/rizzui";
+import { Title, Text } from "rizzui";
 import cn from "../../utils/class-names";
 
 type WelcomeBannerTypes = {

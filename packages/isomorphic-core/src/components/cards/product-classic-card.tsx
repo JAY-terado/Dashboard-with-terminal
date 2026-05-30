@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { Title, Text, Button } from "@/components/rizzui";
+import { Title, Text, Button } from "rizzui";
 import cn from '../../utils/class-names';
 import { toCurrency } from '../../utils/to-currency';
 import { PiMinus, PiPlus } from 'react-icons/pi';

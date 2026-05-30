@@ -1,6 +1,8 @@
+'use client';
+
 import Image from "next/image";
 import { forwardRef } from "react";
-import { Text, Title } from "@/components/rizzui";
+import { Text, Title } from "rizzui";
 import cn from "../../utils/class-names";
 import { InvoiceType } from "./invoice-builder.schema";
 

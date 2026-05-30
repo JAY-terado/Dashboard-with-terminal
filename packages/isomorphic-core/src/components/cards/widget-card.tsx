@@ -1,4 +1,6 @@
-import { Title } from "@/components/rizzui";
+'use client';
+
+import { Title } from "rizzui";
 import cn from "../../utils/class-names";
 import { RefObject } from "react";
 

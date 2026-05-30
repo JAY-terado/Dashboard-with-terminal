@@ -2,7 +2,7 @@
 
 import cn from "@core/utils/class-names";
 import { forwardRef } from "react";
-import { Textarea, TextareaProps } from "@/components/rizzui";
+import { Textarea, TextareaProps } from "rizzui";
 
 export const InvoiceTextarea = forwardRef<HTMLTextAreaElement, TextareaProps>(
   ({ textareaClassName, ...props }, ref) => {

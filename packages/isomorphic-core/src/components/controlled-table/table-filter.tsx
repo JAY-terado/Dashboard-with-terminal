@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import dynamic from "next/dynamic";
 import { PiMagnifyingGlassBold, PiFunnel, PiXBold } from "react-icons/pi";
-import { Button, ActionIcon, Input, Title, Drawer } from "@/components/rizzui";
+import { Button, ActionIcon, Input, Title, Drawer } from "rizzui";
 import cn from "@core/utils/class-names";
 import { useMedia } from "@core/hooks/use-media";
 import { ToggleColumns } from "@core/components/legacy-table";

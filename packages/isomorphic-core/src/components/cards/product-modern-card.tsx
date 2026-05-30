@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { Title, Text } from "@/components/rizzui";
+import { Title, Text } from "rizzui";
 import cn from '../../utils/class-names';
 import WishlistButton from '../wishlist-button';
 import { generateSlug } from '../../utils/generate-slug';

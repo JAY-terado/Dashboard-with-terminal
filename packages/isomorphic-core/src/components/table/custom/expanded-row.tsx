@@ -4,7 +4,7 @@ import { TanTableProductsDataType } from "@core/types";
 import { Row } from "@tanstack/react-table";
 import Image from "next/image";
 import { PiXBold } from "react-icons/pi";
-import { Flex, Text, Title } from "@/components/rizzui";
+import { Flex, Text, Title } from "rizzui";
 
 export function CustomExpandedComponent<TData extends Record<string, any>>(
   row: Row<TData>

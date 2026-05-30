@@ -1,6 +1,6 @@
 'use client';
 
-import { Drawer } from "@/components/rizzui";
+import { Drawer } from "rizzui";
 import { useEffect } from 'react';
 import cn from '@core/utils/class-names';
 import { usePathname } from 'next/navigation';

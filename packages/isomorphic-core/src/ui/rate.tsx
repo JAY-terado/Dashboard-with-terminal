@@ -4,7 +4,7 @@ import React, { forwardRef } from 'react';
 import RcRate from 'rc-rate';
 import type { RateProps as RcRateProps } from 'rc-rate/lib/Rate';
 import type { StarProps as RcStarProps } from 'rc-rate/lib/Star';
-import { FieldError, FieldHelperText, Tooltip } from "@/components/rizzui";
+import { FieldError, FieldHelperText, Tooltip } from "rizzui";
 import cn from '../utils/class-names';
 
 const labelClasses = {

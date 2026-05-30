@@ -1,6 +1,6 @@
 "use client";
 
-import { Progressbar, Text } from "@/components/rizzui";
+import { Progressbar, Text } from "rizzui";
 
 export function getStockStatus(status: number) {
   if (status === 0) {

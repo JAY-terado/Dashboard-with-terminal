@@ -1,6 +1,6 @@
 "use client";
 
-import { Select, type SelectProps, type SelectOption } from "@/components/rizzui";
+import { Select, type SelectProps, type SelectOption } from "rizzui";
 import cn from "@core/utils/class-names";
 
 export default function StatusField({

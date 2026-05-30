@@ -4,7 +4,7 @@ import {
   NameType,
 } from "recharts/types/component/DefaultTooltipContent";
 import { TooltipProps } from "recharts";
-import { Text } from "@/components/rizzui";
+import { Text } from "rizzui";
 import cn from "../../utils/class-names";
 import { addSpacesToCamelCase } from "../../utils/add-spaces-to-camel-case";
 import { formatNumber } from "../../utils/format-number";

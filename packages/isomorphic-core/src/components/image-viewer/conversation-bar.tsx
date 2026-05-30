@@ -1,7 +1,7 @@
 "use client";
 
 import AvatarCard from "../../ui/avatar-card";
-import { ActionIcon, Button, Input, Text, Tooltip } from "@/components/rizzui";
+import { ActionIcon, Button, Input, Text, Tooltip } from "rizzui";
 import {
   PiGitCommit,
   PiHeartFill,

@@ -1,3 +1,3 @@
 "use client";
 
-export { usePatternFormat } from "@/components/rizzui";
+export { usePatternFormat } from "rizzui";

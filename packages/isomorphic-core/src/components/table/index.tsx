@@ -8,7 +8,7 @@ import {
   Popover,
   Title,
   Text,
-} from "@/components/rizzui";
+} from "rizzui";
 import cn from '../../../../isomorphic-core/src/utils/class-names';
 import RcTable from 'rc-table';
 import { addSpacesToCamelCase } from '../../../../isomorphic-core/src/utils/add-spaces-to-camel-case';

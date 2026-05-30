@@ -3,7 +3,7 @@
 import React from "react";
 import dynamic from "next/dynamic";
 import isEmpty from "lodash/isEmpty";
-import { Title, Loader } from "@/components/rizzui";
+import { Title, Loader } from "rizzui";
 import cn from "@core/utils/class-names";
 import type { TableFilterProps } from "./table-filter";
 import type { TablePaginationProps } from "./table-pagination";

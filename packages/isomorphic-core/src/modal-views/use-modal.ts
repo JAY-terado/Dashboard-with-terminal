@@ -1,7 +1,7 @@
 "use client";
 
 import { atom, useAtom } from "jotai";
-import { ModalSize } from "@/components/rizzui";
+import { ModalSize } from "rizzui";
 
 type ModalTypes = {
   view: React.ReactNode;

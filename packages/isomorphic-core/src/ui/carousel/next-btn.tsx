@@ -1,6 +1,6 @@
 "use client";
 
-import { Button } from "@/components/rizzui";
+import { Button } from "rizzui";
 import { useSwiper } from "swiper/react";
 
 // import icons and images

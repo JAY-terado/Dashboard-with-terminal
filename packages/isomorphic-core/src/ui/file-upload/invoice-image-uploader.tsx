@@ -1,6 +1,6 @@
 "use client";
 
-import { Text } from "@/components/rizzui";
+import { Text } from "rizzui";
 import Image from "next/image";
 import cn from "../../utils/class-names";
 import UploadIcon from "../../components/shape/upload";

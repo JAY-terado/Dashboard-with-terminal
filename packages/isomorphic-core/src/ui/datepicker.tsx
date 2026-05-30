@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Input, InputProps } from "@/components/rizzui";
+import { Input, InputProps } from "rizzui";
 import cn from "../utils/class-names";
 import { PiCalendarBlank, PiCaretDownBold } from "react-icons/pi";
 import ReactDatePicker, {

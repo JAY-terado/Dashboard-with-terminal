@@ -1,5 +1,7 @@
+'use client';
+
 import Image from "next/image";
-import { Title } from "@/components/rizzui";
+import { Title } from "rizzui";
 import cn from "../../utils/class-names";
 
 type BannerCardProps = {

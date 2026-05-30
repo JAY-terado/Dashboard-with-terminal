@@ -11,7 +11,7 @@ import {
   Tooltip,
   Button,
   Text,
-} from "@/components/rizzui";
+} from "rizzui";
 import cn from "../utils/class-names";
 import { PiMagnifyingGlassBold, PiPlusBold, PiXBold } from "react-icons/pi";
 import { generateSlug } from "../utils/generate-slug";

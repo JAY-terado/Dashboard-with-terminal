@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { Button, Text, Title, Badge, Collapse } from "@/components/rizzui";
+import { Button, Text, Title, Badge, Collapse } from "rizzui";
 import cn from "../../utils/class-names";
 import { PiCaretDownBold } from "react-icons/pi";
 import LuggageTwoIcon from "../icons/luggage-two";

@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { Input } from "@/components/rizzui";
+import { Input } from "rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
