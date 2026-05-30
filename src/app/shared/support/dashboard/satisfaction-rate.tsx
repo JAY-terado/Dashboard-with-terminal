@@ -3,7 +3,7 @@
 import { ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 import WidgetCard from '@core/components/cards/widget-card';
 import { useElementSize } from '@core/hooks/use-element-size';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import { useMedia } from '@core/hooks/use-media';
 
 type DataType = {

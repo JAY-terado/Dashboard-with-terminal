@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Empty, SearchNotFoundIcon, Button } from 'rizzui';
+import { Empty, SearchNotFoundIcon, Button } from "@/components/rizzui";
 import ProductClassicCard from '@core/components/cards/product-classic-card';
 import { posFilterValue } from '@/app/shared/point-of-sale/pos-search';
 import { useAtomValue } from 'jotai';

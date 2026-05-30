@@ -1,4 +1,4 @@
-import { Button } from "rizzui";
+import { Button } from "@/components/rizzui";
 import { routes } from '@/config/routes';
 import PageHeader from '@/app/shared/page-header';
 import CreateCategory from '@/app/shared/ecommerce/category/create-category';

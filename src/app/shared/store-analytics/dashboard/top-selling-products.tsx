@@ -9,7 +9,7 @@ import Snapchat from '@core/components/icons/snapchat';
 import TelegramIcon from '@core/components/icons/telegram';
 import cn from '@core/utils/class-names';
 import { ReactElement } from 'react';
-import { Box, Flex, Text } from 'rizzui';
+import { Box, Flex, Text } from "@/components/rizzui";
 
 type Product = {
   icon: ReactElement;

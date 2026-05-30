@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 import { toast } from 'react-hot-toast';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { Controller, SubmitHandler, useForm } from 'react-hook-form';
-import { AdvancedRadio, RadioGroup } from 'rizzui';
+import { AdvancedRadio, RadioGroup } from "@/components/rizzui";
 import {
   formDataAtom,
   useStepperOne,

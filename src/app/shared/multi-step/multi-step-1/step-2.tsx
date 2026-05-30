@@ -5,7 +5,7 @@ import { useAtom } from 'jotai';
 import { toast } from 'react-hot-toast';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { Controller, SubmitHandler, useForm } from 'react-hook-form';
-import { AdvancedRadio, RadioGroup } from 'rizzui';
+import { AdvancedRadio, RadioGroup } from "@/components/rizzui";
 import HouseIcon from '@core/components/icons/house';
 import ApartmentIcon from '@core/components/icons/apartment';
 import BarnIcon from '@core/components/icons/barn';

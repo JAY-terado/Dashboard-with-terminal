@@ -9,7 +9,7 @@ import {
   Text,
   Title,
   Tooltip,
-} from 'rizzui';
+} from "@/components/rizzui";
 import PencilIcon from '@core/components/icons/pencil';
 import TrashIcon from '@core/components/icons/trash';
 import { PiWarning } from 'react-icons/pi';

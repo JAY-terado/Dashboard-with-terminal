@@ -1,7 +1,7 @@
 'use client';
 
 import MetricCard from '@core/components/cards/metric-card';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { BarChart, Bar, ResponsiveContainer } from 'recharts';
 

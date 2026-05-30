@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { PiNotePencil } from 'react-icons/pi';
-import { ActionIcon, Text, Title } from 'rizzui';
+import { ActionIcon, Text, Title } from "@/components/rizzui";
 import WidgetCard from '@core/components/cards/widget-card';
 
 const userInfo = {

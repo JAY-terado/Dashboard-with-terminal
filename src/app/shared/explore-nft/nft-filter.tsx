@@ -5,7 +5,7 @@ import { useFilterControls } from '@core/hooks/use-filter-control';
 import { useSearchParams } from 'next/navigation';
 import NFTFilterDropdown from '@/app/shared/explore-nft/nft-filter-dropdown';
 import { initialState } from '@/app/shared/explore-nft/nft-filter-utils';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiTrashDuotone } from 'react-icons/pi';
 import { NFTFilterTags } from '@/app/shared/explore-nft/nft-filter-tags';

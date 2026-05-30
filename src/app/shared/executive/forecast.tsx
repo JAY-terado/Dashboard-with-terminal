@@ -1,6 +1,6 @@
 'use client';
 
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import {

@@ -14,7 +14,7 @@ import { useAtom } from 'jotai';
 import { useEffect } from 'react';
 import { Controller, useForm } from 'react-hook-form';
 import toast from 'react-hot-toast';
-import { AdvancedRadio, Flex, RadioGroup, Text, Title } from 'rizzui';
+import { AdvancedRadio, Flex, RadioGroup, Text, Title } from "@/components/rizzui";
 
 const properties: {
   label: string;

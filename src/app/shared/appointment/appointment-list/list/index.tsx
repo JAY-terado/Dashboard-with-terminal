@@ -6,7 +6,7 @@ import { appointmentColumns } from './columns';
 import Table from '@core/components/table';
 import TableFooter from '@core/components/table/footer';
 import TablePagination from '@core/components/table/pagination';
-import { Box } from 'rizzui';
+import { Box } from "@/components/rizzui";
 import Filters from './filters';
 
 export type AppointmentDataType = (typeof appointmentData)[number];

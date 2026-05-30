@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Button, Title, Text, RadioGroup, AdvancedRadio, Flex } from 'rizzui';
+import { Button, Title, Text, RadioGroup, AdvancedRadio, Flex } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import HorizontalFormBlockWrapper from '@/app/shared/account-settings/horiozontal-block';

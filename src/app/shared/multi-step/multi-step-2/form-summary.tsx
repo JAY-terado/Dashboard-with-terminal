@@ -5,7 +5,7 @@ import {
   useStepperTwo,
 } from '@/app/shared/multi-step/multi-step-2';
 import cn from '@core/utils/class-names';
-import { Flex, Text, Title } from 'rizzui';
+import { Flex, Text, Title } from "@/components/rizzui";
 
 interface FormSummaryProps {
   title: string;

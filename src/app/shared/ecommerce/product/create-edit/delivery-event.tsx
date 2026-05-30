@@ -1,7 +1,7 @@
 'use client';
 
 import FormGroup from '@/app/shared/form-group';
-import { Checkbox, Input } from 'rizzui';
+import { Checkbox, Input } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { DatePicker } from '@core/ui/datepicker';
 import { Controller, useFormContext } from 'react-hook-form';

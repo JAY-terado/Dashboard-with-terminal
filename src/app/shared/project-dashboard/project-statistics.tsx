@@ -23,7 +23,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Box, Flex } from 'rizzui';
+import { Box, Flex } from "@/components/rizzui";
 
 const barSize = 24;
 

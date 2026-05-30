@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import toast from 'react-hot-toast';
 import { SubmitHandler } from 'react-hook-form';
-import { Button, Input, Text } from 'rizzui';
+import { Button, Input, Text } from "@/components/rizzui";
 import { useMedia } from '@core/hooks/use-media';
 import { Form } from '@core/ui/form';
 import { routes } from '@/config/routes';

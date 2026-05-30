@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { useState } from 'react';
-import { Button, Title, Text } from 'rizzui';
+import { Button, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiChatCircleText, PiUsers } from 'react-icons/pi';
 import { useLayout } from '@/layouts/use-layout';

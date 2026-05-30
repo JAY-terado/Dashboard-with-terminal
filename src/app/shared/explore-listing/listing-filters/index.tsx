@@ -12,7 +12,7 @@ import {
   PiSliders,
   PiTrashDuotone,
 } from 'react-icons/pi';
-import { Popover, Button, Title } from 'rizzui';
+import { Popover, Button, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useDrawer } from '@/app/shared/drawer-views/use-drawer';
 import { useFilterControls } from '@core/hooks/use-filter-control';

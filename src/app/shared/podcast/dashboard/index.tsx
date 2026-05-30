@@ -1,4 +1,4 @@
-import { Grid } from "rizzui";
+import { Grid } from "@/components/rizzui";
 import ExplorePodcastsCategory from './explore-categories';
 import FavoritePlaylist from './favorite-playlist';
 import FeaturedPodcasts from './featured-podcasts';
@@ -10,7 +10,7 @@ import RecentlyPlayed from './recently-played';
 import PodcastsStatistics from './statistics';
 import TopPodcaster from './top-podcaster';
 import WelcomeBanner from './welcome-banner';
-import { Box } from "rizzui";
+import { Box } from "@/components/rizzui";
 
 export function PodcastDashboard() {
   return (

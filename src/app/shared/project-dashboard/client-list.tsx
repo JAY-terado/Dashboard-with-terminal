@@ -4,7 +4,7 @@ import { clientList } from '@/data/project-dashboard';
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import Link from 'next/link';
-import { Avatar, Box, Button, Flex, Progressbar, Text } from 'rizzui';
+import { Avatar, Box, Button, Flex, Progressbar, Text } from "@/components/rizzui";
 
 export default function ProjectClientList({
   className,

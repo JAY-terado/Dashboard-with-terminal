@@ -6,7 +6,7 @@ import { useTanStackTable } from '@core/components/table/custom/use-TanStack-Tab
 import { OrdersDataType } from '../../ecommerce/dashboard/recent-order';
 import { basicColumns } from './column';
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
-import { Flex, Input, TableVariantProps, Title } from 'rizzui';
+import { Flex, Input, TableVariantProps, Title } from "@/components/rizzui";
 import TablePagination from '@core/components/table/pagination';
 
 export default function RetroTable({

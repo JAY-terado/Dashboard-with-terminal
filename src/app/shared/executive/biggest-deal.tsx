@@ -3,7 +3,7 @@
 import WidgetCard from '@core/components/cards/widget-card';
 import { PieChart, Pie, Cell, ResponsiveContainer, Label } from 'recharts';
 import { toCurrency } from '@core/utils/to-currency';
-import { Avatar, Title, Text } from 'rizzui';
+import { Avatar, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import TrendingUpIcon from '@core/components/icons/trending-up';
 

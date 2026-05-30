@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Button } from "rizzui";
-import { Title } from "rizzui";
+import { Button } from "@/components/rizzui";
+import { Title } from "@/components/rizzui";
 import { PiHouseLineBold } from 'react-icons/pi';
 import SocialItems from '@core/ui/social-shares';
 import { siteConfig } from '@/config/site.config';

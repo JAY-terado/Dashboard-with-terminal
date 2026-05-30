@@ -4,7 +4,7 @@ import FolderIcon from '@core/components/icons/folder-solid';
 import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
-import { Checkbox } from 'rizzui';
+import { Checkbox } from "@/components/rizzui";
 import { SnippetsAndTemplatesDataType } from './table';
 import { SnippetsTableActions } from './snippets-table-actions';
 

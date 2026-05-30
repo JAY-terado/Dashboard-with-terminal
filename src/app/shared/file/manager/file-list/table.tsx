@@ -1,6 +1,6 @@
 'use client';
 
-import { Box } from 'rizzui';
+import { Box } from "@/components/rizzui";
 import { allFilesData } from '@/data/all-files';
 import Table from '@core/components/table';
 import { useTanStackTable } from '@core/components/table/custom/use-TanStack-Table';

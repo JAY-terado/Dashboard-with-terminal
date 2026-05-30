@@ -3,7 +3,7 @@
 import WidgetCard from '@core/components/cards/widget-card';
 
 import DropdownAction from '@core/components/charts/dropdown-action';
-import { Text, Title } from 'rizzui';
+import { Text, Title } from "@/components/rizzui";
 import TrendingUpIcon from '@core/components/icons/trending-up';
 import cn from '@core/utils/class-names';
 

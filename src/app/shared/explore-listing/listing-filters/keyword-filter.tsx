@@ -1,6 +1,6 @@
 'use client';
 
-import { Input, Title } from 'rizzui';
+import { Input, Title } from "@/components/rizzui";
 import { InitialStateType } from '@/app/shared/explore-listing/listing-filters/filter-utils';
 
 export default function KeywordFilter({

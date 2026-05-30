@@ -4,7 +4,7 @@ import React from 'react';
 import { useForm, SubmitHandler } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { z } from 'zod';
-import { Input, Button, Title, Text, Password } from 'rizzui';
+import { Input, Button, Title, Text, Password } from "@/components/rizzui";
 
 // 1. Define your form schema using Zod
 const formSchema = z.object({

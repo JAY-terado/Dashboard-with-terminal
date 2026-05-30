@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Input, Button } from 'rizzui';
+import { Title, Input, Button } from "@/components/rizzui";
 import { PiMagnifyingGlassBold, PiTrashDuotone } from 'react-icons/pi';
 import ViewSwitcher from '@/app/shared/file/manager/view-switcher';
 import { type Table as ReactTableType } from '@tanstack/react-table';

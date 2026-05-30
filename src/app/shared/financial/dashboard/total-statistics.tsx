@@ -19,7 +19,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Flex, Title } from 'rizzui';
+import { Flex, Title } from "@/components/rizzui";
 
 const COLORS = {
   BG: {

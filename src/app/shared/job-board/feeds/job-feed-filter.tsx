@@ -1,7 +1,7 @@
 'use client';
 
 import cn from '@core/utils/class-names';
-import { Button, Title } from 'rizzui';
+import { Button, Title } from "@/components/rizzui";
 import { PiFunnel } from 'react-icons/pi';
 import { useDrawer } from '@/app/shared/drawer-views/use-drawer';
 import { useFilterControls } from '@core/hooks/use-filter-control';

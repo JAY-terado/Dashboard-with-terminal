@@ -10,7 +10,7 @@ import cn from '@core/utils/class-names';
 import { formatNumber } from '@core/utils/format-number';
 import { useState } from 'react';
 import { PiArrowDownRightBold, PiArrowUpRightBold } from 'react-icons/pi';
-import { Box, Flex, Text, Title } from 'rizzui';
+import { Box, Flex, Text, Title } from "@/components/rizzui";
 
 export type StatCardProps = {
   className?: string;

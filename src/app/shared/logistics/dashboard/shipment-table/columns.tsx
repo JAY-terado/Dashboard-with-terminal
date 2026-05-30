@@ -8,7 +8,7 @@ import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { toCurrency } from '@core/utils/to-currency';
 import { createColumnHelper } from '@tanstack/react-table';
-import { Badge, Checkbox, Text } from 'rizzui';
+import { Badge, Checkbox, Text } from "@/components/rizzui";
 import { ShipmentTableDataType } from './table';
 
 const columnHelper = createColumnHelper<ShipmentTableDataType>();

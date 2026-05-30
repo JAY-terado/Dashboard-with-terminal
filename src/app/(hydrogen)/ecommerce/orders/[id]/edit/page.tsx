@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { routes } from '@/config/routes';
-import { Button } from "rizzui";
+import { Button } from "@/components/rizzui";
 import { metaObject } from '@/config/site.config';
 import PageHeader from '@/app/shared/page-header';
 import CreateOrder from '@/app/shared/ecommerce/order/create-order';

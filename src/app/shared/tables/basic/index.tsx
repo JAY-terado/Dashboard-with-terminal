@@ -5,7 +5,7 @@ import { orderData } from '@/data/order-data';
 import { useTanStackTable } from '@core/components/table/custom/use-TanStack-Table';
 import { OrdersDataType } from '../../ecommerce/dashboard/recent-order';
 import { basicColumns } from './column';
-import { TableVariantProps } from 'rizzui';
+import { TableVariantProps } from "@/components/rizzui";
 
 export default function BasicTable({
   stickyHeader = false,

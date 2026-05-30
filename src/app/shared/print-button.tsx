@@ -2,7 +2,7 @@
 
 import cn from '@core/utils/class-names';
 import { PiPrinterBold } from 'react-icons/pi';
-import { Button, ButtonProps } from 'rizzui';
+import { Button, ButtonProps } from "@/components/rizzui";
 
 export default function PrintButton({ className, ...props }: ButtonProps) {
   return (

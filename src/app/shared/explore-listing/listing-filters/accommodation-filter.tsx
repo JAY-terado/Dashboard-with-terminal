@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Title, Text, AdvancedRadio, Checkbox } from 'rizzui';
+import { Button, Title, Text, AdvancedRadio, Checkbox } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useMedia } from '@core/hooks/use-media';
 import { useEffect, useState } from 'react';

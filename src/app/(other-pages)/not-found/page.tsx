@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
-import { Button, Title, Text } from 'rizzui';
+import { Button, Title, Text } from "@/components/rizzui";
 import { PiHouseLineBold } from 'react-icons/pi';
 
 // images and icons

@@ -4,7 +4,7 @@ import Link from 'next/link';
 import isEmpty from 'lodash/isEmpty';
 import OrderProducts from '@/app/shared/ecommerce/checkout/order-products';
 import { toCurrency } from '@core/utils/to-currency';
-import { Title, Text, Button, EmptyProductBoxIcon } from 'rizzui';
+import { Title, Text, Button, EmptyProductBoxIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { routes } from '@/config/routes';
 import { CartItem } from '@/types';

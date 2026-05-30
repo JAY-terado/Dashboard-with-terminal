@@ -1,6 +1,6 @@
 'use client';
 
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useStepperAppointment } from '@/app/shared/appointment/appointment-list/appointment-form';
 

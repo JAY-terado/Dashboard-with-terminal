@@ -1,6 +1,6 @@
 'use client';
 
-import { Input, NumberInput, Title } from 'rizzui';
+import { Input, NumberInput, Title } from "@/components/rizzui";
 import { PiMinus } from 'react-icons/pi';
 import { InitialStateType } from '@/app/shared/explore-listing/listing-filters/filter-utils';
 

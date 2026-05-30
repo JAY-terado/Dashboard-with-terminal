@@ -3,7 +3,7 @@
 import uniqueId from 'lodash/uniqueId';
 import { PiXBold } from 'react-icons/pi';
 import { Controller, SubmitHandler } from 'react-hook-form';
-import { ActionIcon, Button, Input, Text, Textarea, Title } from 'rizzui';
+import { ActionIcon, Button, Input, Text, Textarea, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import { Form } from '@core/ui/form';

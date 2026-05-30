@@ -5,7 +5,7 @@ import { useState } from 'react';
 import JobBadge from './job-badge';
 import toast from 'react-hot-toast';
 import cn from '@core/utils/class-names';
-import { Badge, Button, Text, Title } from 'rizzui';
+import { Badge, Button, Text, Title } from "@/components/rizzui";
 import { JobType, socialInfos } from '@/data/job-feed-data';
 import { useCopyToClipboard } from '@core/hooks/use-copy-to-clipboard';
 import {

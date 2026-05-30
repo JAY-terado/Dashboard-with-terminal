@@ -11,7 +11,7 @@ import {
 } from '@/store/checkout';
 import OrderViewProducts from '@/app/shared/ecommerce/order/order-products/order-view-products';
 import { useCart } from '@/store/quick-cart/cart.context';
-import { Title, Text } from 'rizzui';
+import { Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { toCurrency } from '@core/utils/to-currency';
 import { formatDate } from '@core/utils/format-date';

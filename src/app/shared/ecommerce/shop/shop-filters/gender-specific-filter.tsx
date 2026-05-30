@@ -4,7 +4,7 @@ import {
   genderData,
   initialState,
 } from '@/app/shared/ecommerce/shop/shop-filters/filter-utils';
-import { Radio, Title } from 'rizzui';
+import { Radio, Title } from "@/components/rizzui";
 
 export default function GenderSpecificFilter({
   state,

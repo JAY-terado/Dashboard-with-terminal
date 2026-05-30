@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { HeaderCell } from '@core/components/legacy-table';
 import BasicTableWidget from '@core/components/controlled-table/basic-table-widget';

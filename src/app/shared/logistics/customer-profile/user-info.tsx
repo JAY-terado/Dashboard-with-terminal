@@ -7,7 +7,7 @@ import { getRandomArrayElement } from '@core/utils/get-random-array-element';
 import { toCurrency } from '@core/utils/to-currency';
 import Image from 'next/image';
 import { PiEnvelopeSimple, PiPhone, PiStarFill } from 'react-icons/pi';
-import { Badge, Button, Text, Title } from 'rizzui';
+import { Badge, Button, Text, Title } from "@/components/rizzui";
 
 interface SidebarProps {
   className?: string;

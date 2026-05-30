@@ -11,7 +11,7 @@ import { useSetAtom } from 'jotai';
 import { useResetAtom } from 'jotai/utils';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import { useEffect } from 'react';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 
 interface FooterProps {
   formId?: number;

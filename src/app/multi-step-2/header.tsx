@@ -4,7 +4,7 @@ import Logo from '@core/components/logo';
 import { useMedia } from '@core/hooks/use-media';
 import cn from '@core/utils/class-names';
 import Link from 'next/link';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 
 interface FooterProps {
   className?: string;

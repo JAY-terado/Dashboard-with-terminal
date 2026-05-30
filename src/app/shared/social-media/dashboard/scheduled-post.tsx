@@ -7,7 +7,7 @@ import {
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import { PiCalendarBlankDuotone, PiClockDuotone } from 'react-icons/pi';
-import { Badge, Tab, Text } from 'rizzui';
+import { Badge, Tab, Text } from "@/components/rizzui";
 import { GetSocialOption } from './utils';
 
 const tabList = ['All Post', 'Facebook', 'Instagram', 'LinkedIn'];

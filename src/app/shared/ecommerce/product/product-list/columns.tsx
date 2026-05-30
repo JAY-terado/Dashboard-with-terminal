@@ -11,7 +11,7 @@ import PencilIcon from '@core/components/icons/pencil';
 import AvatarCard from '@core/ui/avatar-card';
 import { createColumnHelper } from '@tanstack/react-table';
 import Link from 'next/link';
-import { ActionIcon, Checkbox, Flex, Text, Tooltip } from 'rizzui';
+import { ActionIcon, Checkbox, Flex, Text, Tooltip } from "@/components/rizzui";
 
 const columnHelper = createColumnHelper<ProductType>();
 

@@ -7,7 +7,7 @@ import { Controller, SubmitHandler, useForm } from 'react-hook-form';
 import FormSummary from '@/app/shared/multi-step/multi-step-1/form-summary';
 import RangeSlider, { RangeSliderProps } from '@core/ui/range-slider';
 import { toCurrency } from '@core/utils/to-currency';
-import { Loader, Input, Text, Tooltip } from 'rizzui';
+import { Loader, Input, Text, Tooltip } from "@/components/rizzui";
 import {
   formDataAtom,
   useStepperOne,

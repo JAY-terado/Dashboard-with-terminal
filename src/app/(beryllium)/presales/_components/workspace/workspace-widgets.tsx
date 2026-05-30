@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { Title, Text, ActionIcon, Button, Popover } from 'rizzui';
+import { Title, Text, ActionIcon, Button, Popover } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useDraggable, useDroppable } from '@dnd-kit/core';
 import { 

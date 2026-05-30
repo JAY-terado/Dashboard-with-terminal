@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
-import { Button, Text, Input, Password } from 'rizzui';
+import { Button, Text, Input, Password } from "@/components/rizzui";
 import { SubmitHandler } from 'react-hook-form';
 import { Form } from '@core/ui/form';
 import { routes } from '@/config/routes';

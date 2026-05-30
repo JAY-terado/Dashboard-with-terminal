@@ -1,5 +1,5 @@
 import { routes } from '@/config/routes';
-import { Button } from "rizzui";
+import { Button } from "@/components/rizzui";
 import PageHeader from '@/app/shared/page-header';
 import BasicMap from './basic-map';
 import CustomMap from './custom-map';

@@ -1,7 +1,7 @@
 'use client';
 
 import { Controller, useFormContext } from 'react-hook-form';
-import { Radio, RadioGroup, Input } from 'rizzui';
+import { Radio, RadioGroup, Input } from "@/components/rizzui";
 
 const options = [
   {

@@ -15,7 +15,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Badge } from 'rizzui';
+import { Badge } from "@/components/rizzui";
 
 export default function EngageMents({ className }: { className?: string }) {
   const [startDate, setStartDate] = useState(new Date());

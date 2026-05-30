@@ -3,7 +3,7 @@
 import z from 'zod';
 import { SubmitHandler } from 'react-hook-form';
 import { Form } from '@core/ui/form';
-import { Input, Button } from 'rizzui';
+import { Input, Button } from "@/components/rizzui";
 
 // import images and icons
 import { PiBellBold } from 'react-icons/pi';

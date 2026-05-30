@@ -14,7 +14,7 @@ import {
   Tooltip,
   XAxis,
 } from 'recharts';
-import { Badge, Box, Text, Title } from 'rizzui';
+import { Badge, Box, Text, Title } from "@/components/rizzui";
 
 type DataType = {
   name: string;

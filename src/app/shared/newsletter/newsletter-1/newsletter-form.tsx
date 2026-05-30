@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { SubmitHandler } from 'react-hook-form';
-import { Button, Input } from 'rizzui';
+import { Button, Input } from "@/components/rizzui";
 import { Form } from '@core/ui/form';
 import {
   NewsLetterFormSchema,

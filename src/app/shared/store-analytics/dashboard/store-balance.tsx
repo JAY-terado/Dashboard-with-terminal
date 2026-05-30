@@ -4,7 +4,7 @@ import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import { formatNumberWithCommas } from '@core/utils/format-number';
 import { PiArrowUpRight } from 'react-icons/pi';
-import { Badge, Box, Flex, Text, Title } from 'rizzui';
+import { Badge, Box, Flex, Text, Title } from "@/components/rizzui";
 
 const COLORS = {
   PASTE: '#29CCB1',

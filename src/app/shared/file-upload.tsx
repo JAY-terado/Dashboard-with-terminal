@@ -17,7 +17,7 @@ import {
   PiTrashBold,
   PiXBold,
 } from 'react-icons/pi';
-import { ActionIcon, Button, Text, Title } from 'rizzui';
+import { ActionIcon, Button, Text, Title } from "@/components/rizzui";
 
 type AcceptedFiles = 'img' | 'pdf' | 'csv' | 'imgAndPdf' | 'all';
 

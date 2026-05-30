@@ -1,5 +1,5 @@
-import { Grid } from "rizzui";
-import { Box } from "rizzui";
+import { Grid } from "@/components/rizzui";
+import { Box } from "@/components/rizzui";
 import { metaObject } from '@/config/site.config';
 import dynamic from 'next/dynamic';
 

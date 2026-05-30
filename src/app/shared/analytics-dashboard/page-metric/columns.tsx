@@ -8,7 +8,7 @@ import { createColumnHelper } from '@tanstack/react-table';
 import dayjs from 'dayjs';
 import { PiArrowSquareOut } from 'react-icons/pi';
 import { Bar, BarChart, ResponsiveContainer } from 'recharts';
-import { Flex, Text, Title } from 'rizzui';
+import { Flex, Text, Title } from "@/components/rizzui";
 import { PageMetricDataType } from '.';
 
 const formatter = Intl.NumberFormat('en', {

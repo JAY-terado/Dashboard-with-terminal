@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import cn from '@core/utils/class-names';
-import { Box, Flex, Title } from 'rizzui';
+import { Box, Flex, Title } from "@/components/rizzui";
 import { DatePicker } from '@core/ui/datepicker';
 import WidgetCard from '@core/components/cards/widget-card';
 import TrendingUpIcon from '@core/components/icons/trending-up';

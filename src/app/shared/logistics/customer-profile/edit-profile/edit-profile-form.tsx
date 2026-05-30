@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import toast from 'react-hot-toast';
 import { Controller, SubmitHandler } from 'react-hook-form';
-import { Title, Select, Input, Button, Password, ActionIcon } from 'rizzui';
+import { Title, Select, Input, Button, Password, ActionIcon } from "@/components/rizzui";
 import { Form } from '@core/ui/form';
 import {
   regions,

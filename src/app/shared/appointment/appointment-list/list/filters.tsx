@@ -15,7 +15,7 @@ import {
   PiTrashDuotone,
 } from 'react-icons/pi';
 import { useMedia } from 'react-use';
-import { Button, Flex, Input, Title } from 'rizzui';
+import { Button, Flex, Input, Title } from "@/components/rizzui";
 
 export const appointmentTypesOptions = Object.entries(appointmentTypes).map(
   ([value, label]) => ({ label, value })

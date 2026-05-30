@@ -4,7 +4,7 @@ import {
   InitialStateType,
   filterOptions,
 } from '@/app/shared/explore-nft/nft-filter-utils';
-import { Select } from 'rizzui';
+import { Select } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { getOptionByValue } from '@core/utils/get-option-by-value';
 

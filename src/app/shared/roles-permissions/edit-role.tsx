@@ -11,7 +11,7 @@ import {
   Title,
   Button,
   CheckboxGroup,
-} from 'rizzui';
+} from "@/components/rizzui";
 import { PERMISSIONS } from '@/data/users-data';
 import { Form } from '@core/ui/form';
 import {

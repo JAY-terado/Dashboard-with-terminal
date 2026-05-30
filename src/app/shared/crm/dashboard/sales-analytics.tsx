@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Box, Flex, Text } from 'rizzui';
+import { Box, Flex, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import { ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';

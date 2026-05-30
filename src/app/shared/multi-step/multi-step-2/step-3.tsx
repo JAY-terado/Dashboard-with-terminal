@@ -13,7 +13,7 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { useAtom } from 'jotai';
 import dynamic from 'next/dynamic';
 import { Controller, SubmitHandler, useForm } from 'react-hook-form';
-import { FieldError, Input, Radio, RadioGroup, Select, Text } from 'rizzui';
+import { FieldError, Input, Radio, RadioGroup, Select, Text } from "@/components/rizzui";
 
 const QuillEditor = dynamic(() => import('@core/ui/quill-editor'), {
   ssr: false,

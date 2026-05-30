@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from 'react';
-import { Title, Text, Button } from 'rizzui';
+import { Title, Text, Button } from "@/components/rizzui";
 import { PiPlusBold } from 'react-icons/pi';
 import DashboardFilter from '../_components/widgets/dashboard-filter';
 import BookingDetails from '../_components/widgets/booking-details';

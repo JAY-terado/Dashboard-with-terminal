@@ -4,7 +4,7 @@ import { useCallback, useMemo, useState } from 'react';
 import dynamic from 'next/dynamic';
 import { useTable } from '@core/hooks/use-table';
 import { useColumn } from '@core/hooks/use-column';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import ControlledTable from '@core/components/controlled-table/index';
 import { getColumns } from './columns';
 const FilterElement = dynamic(() => import('./filter-element'), { ssr: false });

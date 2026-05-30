@@ -1,6 +1,6 @@
 'use client';
 
-import { Input } from 'rizzui';
+import { Input } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import Table from '@core/components/table';
 import { recentCustomersColumns } from './columns';

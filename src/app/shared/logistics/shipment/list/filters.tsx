@@ -16,7 +16,7 @@ import {
   PiTrashDuotone,
 } from 'react-icons/pi';
 import { useMedia } from 'react-use';
-import { Badge, Button, Flex, Input, Text } from 'rizzui';
+import { Badge, Button, Flex, Input, Text } from "@/components/rizzui";
 
 const paymentStatusOptions = Object.entries(shippingStatuses).map(
   ([value, label]) => ({

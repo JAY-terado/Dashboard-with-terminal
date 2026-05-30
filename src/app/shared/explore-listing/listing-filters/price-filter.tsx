@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { RadioGroup, Button, AdvancedRadio, Select } from 'rizzui';
+import { RadioGroup, Button, AdvancedRadio, Select } from "@/components/rizzui";
 import { PiMinus } from 'react-icons/pi';
 import { useMedia } from '@core/hooks/use-media';
 import {

@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 export default function WishlistButton({ className }: { className?: string }) {

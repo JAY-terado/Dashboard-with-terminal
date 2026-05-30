@@ -4,7 +4,7 @@ import { createColumnHelper } from '@tanstack/react-table';
 import { ActiveAuctionType } from '.';
 import { toCurrency } from '@core/utils/to-currency';
 import Link from 'next/link';
-import { Checkbox } from 'rizzui';
+import { Checkbox } from "@/components/rizzui";
 import dayjs from 'dayjs';
 import Image from 'next/image';
 

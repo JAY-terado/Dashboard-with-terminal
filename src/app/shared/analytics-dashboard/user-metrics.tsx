@@ -15,7 +15,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Badge } from 'rizzui';
+import { Badge } from "@/components/rizzui";
 
 const data = [
   {

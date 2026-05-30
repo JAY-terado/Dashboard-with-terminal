@@ -3,7 +3,7 @@
 import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
-import { Badge, Checkbox, Flex } from 'rizzui';
+import { Badge, Checkbox, Flex } from "@/components/rizzui";
 import { UsersTableDataType } from '.';
 import { getStatusBadge } from '@core/components/table-utils/get-status-badge';
 import TableRowActionGroup from '@core/components/table-utils/table-row-action-group';

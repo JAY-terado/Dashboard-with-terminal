@@ -5,7 +5,7 @@ import cn from '@core/utils/class-names';
 import CountUp from 'react-countup';
 import { IconType } from 'react-icons/lib';
 import { PiArrowDownRightBold, PiArrowUpRightBold } from 'react-icons/pi';
-import { Box, Text } from 'rizzui';
+import { Box, Text } from "@/components/rizzui";
 
 type StatType = {
   icon: IconType;

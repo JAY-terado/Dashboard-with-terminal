@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { postData } from '@/data/profile-data';
 import { usePathname } from 'next/navigation';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import { Modal } from '@core/modal-views/modal';
 import {
   PiCaretLeftBold,

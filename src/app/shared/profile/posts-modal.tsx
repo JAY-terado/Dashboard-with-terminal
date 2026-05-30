@@ -14,7 +14,7 @@ import {
   PiXBold,
 } from 'react-icons/pi';
 import ReactPlayer from 'react-player/lazy';
-import { Avatar, Button, Text, Textarea, Title } from 'rizzui';
+import { Avatar, Button, Text, Textarea, Title } from "@/components/rizzui";
 
 export type CommentPropsType = {
   commentData: {

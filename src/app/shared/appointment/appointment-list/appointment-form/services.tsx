@@ -4,7 +4,7 @@ import { z } from 'zod';
 import { useAtom } from 'jotai';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { Controller, SubmitHandler, useForm } from 'react-hook-form';
-import { ActionIcon, Select, Title } from 'rizzui';
+import { ActionIcon, Select, Title } from "@/components/rizzui";
 import Footer from './footer';
 import {
   formDataAtom,

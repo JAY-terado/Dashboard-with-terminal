@@ -1,7 +1,7 @@
 'use client';
 
 import { Controller } from 'react-hook-form';
-import { Input, Title, Radio } from 'rizzui';
+import { Input, Title, Radio } from "@/components/rizzui";
 import { PhoneNumber } from '@core/ui/phone-input';
 
 export default function BillingForm({ register, errors, control }: any) {

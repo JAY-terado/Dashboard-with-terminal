@@ -17,7 +17,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Badge } from 'rizzui';
+import { Badge } from "@/components/rizzui";
 import { SocialMediaFilter } from './utils';
 
 export default function OverallFollowers({

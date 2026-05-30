@@ -5,7 +5,7 @@ import cn from '@core/utils/class-names';
 import WorldMap from 'react-svg-worldmap';
 import { type ComponentProps } from 'react';
 import { useMedia } from '@core/hooks/use-media';
-import { Box, Button, Progressbar, Text } from 'rizzui';
+import { Box, Button, Progressbar, Text } from "@/components/rizzui";
 import { formatNumber } from '@core/utils/format-number';
 import WidgetCard from '@core/components/cards/widget-card';
 import { useElementSize } from '@core/hooks/use-element-size';

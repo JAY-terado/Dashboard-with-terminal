@@ -7,7 +7,7 @@ import EyeIcon from '@core/components/icons/eye';
 import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
-import { ActionIcon, Checkbox, Flex, Text, Tooltip } from 'rizzui';
+import { ActionIcon, Checkbox, Flex, Text, Tooltip } from "@/components/rizzui";
 import { AppointmentDataType } from '.';
 import CreateUpdateAppointmentForm from '../appointment-form';
 import AppointmentDetails from './appointment-details';

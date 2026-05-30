@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Title, Text, Button, Select } from 'rizzui';
+import { Title, Text, Button, Select } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { 
   PieChart, 

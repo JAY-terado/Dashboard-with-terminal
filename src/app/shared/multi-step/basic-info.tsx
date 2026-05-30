@@ -2,7 +2,7 @@
 
 import { z } from 'zod';
 import { Controller, useFormContext } from 'react-hook-form';
-import { Select, Radio, Input } from 'rizzui';
+import { Select, Radio, Input } from "@/components/rizzui";
 import dynamic from 'next/dynamic';
 const QuillEditor = dynamic(() => import('@core/ui/quill-editor'), {
   ssr: false,

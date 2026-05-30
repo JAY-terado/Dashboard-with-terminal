@@ -2,7 +2,7 @@
 
 import { useEffect } from 'react';
 import { usePathname } from 'next/navigation';
-import { Drawer } from 'rizzui';
+import { Drawer } from "@/components/rizzui";
 import { useDrawer } from '@/app/shared/drawer-views/use-drawer';
 import cn from '@core/utils/class-names';
 

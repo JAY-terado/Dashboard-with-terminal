@@ -2,7 +2,7 @@
 
 import { Controller, useFormContext } from 'react-hook-form';
 import { PhoneNumber } from '@core/ui/phone-input';
-import { Input, Title } from 'rizzui';
+import { Input, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 interface AddressInfoProps {

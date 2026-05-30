@@ -1,7 +1,7 @@
 'use client';
 
 import PriceFilter from '@/app/shared/explore-flight/listing-filters/time-filter';
-import { Collapse } from 'rizzui';
+import { Collapse } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiCaretDownBold } from 'react-icons/pi';
 

@@ -3,7 +3,7 @@
 import { createColumnHelper } from '@tanstack/react-table';
 import dayjs from 'dayjs';
 import { Area, AreaChart, ResponsiveContainer } from 'recharts';
-import { Text, Title } from 'rizzui';
+import { Text, Title } from "@/components/rizzui";
 import { websiteMetricDataType } from '.';
 import { getChartColorByEngagementRate } from '@core/components/table-utils/get-chart-color-by-engagement-rate';
 import { getEngagementRate } from '@core/components/table-utils/get-engagement-rate';

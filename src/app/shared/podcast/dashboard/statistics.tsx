@@ -15,9 +15,9 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Box } from "rizzui";
-import { Flex } from "rizzui";
-import { Text } from "rizzui";
+import { Box } from "@/components/rizzui";
+import { Flex } from "@/components/rizzui";
+import { Text } from "@/components/rizzui";
 
 const data = [
   {

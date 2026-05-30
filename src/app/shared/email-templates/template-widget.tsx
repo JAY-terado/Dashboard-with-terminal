@@ -2,7 +2,7 @@
 
 import Image, { ImageProps } from 'next/image';
 import { useModal } from '@/app/shared/modal-views/use-modal';
-import { Button, Title } from 'rizzui';
+import { Button, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import EmailTemplateForm from '@/app/shared/email-templates/email-template-form';
 

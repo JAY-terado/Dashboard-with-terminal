@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge, Button, Flex, Input, Text } from 'rizzui';
+import { Badge, Button, Flex, Input, Text } from "@/components/rizzui";
 import StatusField from '@core/components/controlled-table/status-field';
 import DateFiled from '@core/components/controlled-table/date-field';
 import {

@@ -5,7 +5,7 @@ import { useParams } from 'next/navigation';
 import { routes } from '@/config/routes';
 import usePrice from '@core/hooks/use-price';
 import OrderProducts from './order-products';
-import { Button, Title, Text } from 'rizzui';
+import { Button, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { toCurrency } from '@core/utils/to-currency';
 import { useCart } from '@/store/quick-cart/cart.context';

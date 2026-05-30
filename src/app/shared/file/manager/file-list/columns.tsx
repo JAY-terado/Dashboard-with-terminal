@@ -5,7 +5,7 @@ import { MoreActions } from '@core/components/table-utils/more-actions';
 import { createColumnHelper } from '@tanstack/react-table';
 import dayjs from 'dayjs';
 import Image from 'next/image';
-import { Checkbox, Flex, Text, Title } from 'rizzui';
+import { Checkbox, Flex, Text, Title } from "@/components/rizzui";
 import { FileListTableDataType } from './table';
 
 const columnHelper = createColumnHelper<FileListTableDataType>();

@@ -3,7 +3,7 @@ import {
   useDrawer,
   type DrawerPlacements,
 } from '@/app/shared/drawer-views/use-drawer';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiSliders } from 'react-icons/pi';
 

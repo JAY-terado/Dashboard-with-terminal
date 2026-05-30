@@ -7,7 +7,7 @@ import {
   ResizablePanelGroup 
 } from './resizable';
 import { WorkspaceWidget } from './workspace-widgets';
-import { Button, Popover, Text } from 'rizzui';
+import { Button, Popover, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { 
   DndContext, 

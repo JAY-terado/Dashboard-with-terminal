@@ -5,7 +5,7 @@ import DropdownAction from '@core/components/charts/dropdown-action';
 import DateCell from '@core/ui/date-cell';
 import cn from '@core/utils/class-names';
 import { PiCalendarBlank, PiCheckBold } from 'react-icons/pi';
-import { AdvancedCheckbox, Button } from 'rizzui';
+import { AdvancedCheckbox, Button } from "@/components/rizzui";
 
 const data = [
   {

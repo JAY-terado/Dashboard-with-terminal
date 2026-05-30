@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { PiCaretDownBold, PiCaretRightBold } from 'react-icons/pi';
-import { Popover, Button, Text } from 'rizzui';
+import { Popover, Button, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useMedia } from '@core/hooks/use-media';
 import { DatePicker } from '@core/ui/datepicker';

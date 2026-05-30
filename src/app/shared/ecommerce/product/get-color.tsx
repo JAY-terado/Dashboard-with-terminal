@@ -1,7 +1,7 @@
 'use client';
 
 import { Controller, useFormContext } from 'react-hook-form';
-import { FieldError } from 'rizzui';
+import { FieldError } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { ProductColor } from '@/types';
 

@@ -2,7 +2,7 @@
 
 import cn from '@core/utils/class-names';
 import WorldMap from 'react-svg-worldmap';
-import { Progressbar, Text } from 'rizzui';
+import { Progressbar, Text } from "@/components/rizzui";
 import { useMedia } from '@core/hooks/use-media';
 import { SocialMediaFilter } from './utils';
 import { formatNumber } from '@core/utils/format-number';

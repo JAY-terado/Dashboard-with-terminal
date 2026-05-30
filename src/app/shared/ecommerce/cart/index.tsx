@@ -11,7 +11,7 @@ import { recentlyProducts, recommendationProducts } from '@/data/shop-products';
 import CartProduct from '@/app/shared/ecommerce/cart/cart-product';
 import { useCart } from '@/store/quick-cart/cart.context';
 import usePrice from '@core/hooks/use-price';
-import { Empty, EmptyProductBoxIcon, Title, Text, Input, Button } from 'rizzui';
+import { Empty, EmptyProductBoxIcon, Title, Text, Input, Button } from "@/components/rizzui";
 import ProductCarousel from '@/app/shared/product-carousel';
 
 type FormValues = {

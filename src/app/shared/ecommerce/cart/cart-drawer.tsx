@@ -7,7 +7,7 @@ import FloatingCartButton from '@/app/shared/floating-cart-button';
 import CartDrawerView from '@/app/shared/ecommerce/cart/cart-drawer-view';
 import { useParams, usePathname } from 'next/navigation';
 import { routes } from '@/config/routes';
-import { Drawer } from "rizzui";
+import { Drawer } from "@/components/rizzui";
 
 // const Drawer = dynamic(() => import('rizzui').then((module) => module.Drawer), {
 //   ssr: false,

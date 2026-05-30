@@ -1,7 +1,7 @@
 'use client';
 
 import { Controller, useFormContext } from 'react-hook-form';
-import { Input, Textarea, RadioGroup, AdvancedRadio } from 'rizzui';
+import { Input, Textarea, RadioGroup, AdvancedRadio } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import FormGroup from '@/app/shared/form-group';
 import { PiCheckCircleFill, PiGift } from 'react-icons/pi';

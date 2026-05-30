@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { Title, Text } from 'rizzui';
+import { Title, Text } from "@/components/rizzui";
 import { PiImageDuotone } from 'react-icons/pi';
 import WidgetCard from '@core/components/cards/widget-card';
 

@@ -13,7 +13,7 @@ import {
   RadioGroup,
   NumberInput,
   NumberInputProps,
-} from 'rizzui';
+} from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { usePatternFormat } from '@core/hooks/use-pattern-format';
 import {

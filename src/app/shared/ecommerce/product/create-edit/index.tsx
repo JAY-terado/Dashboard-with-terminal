@@ -5,7 +5,7 @@ import toast from 'react-hot-toast';
 import { Element } from 'react-scroll';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useForm, FormProvider, SubmitHandler } from 'react-hook-form';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import FormNav, {
   formParts,

@@ -1,7 +1,7 @@
 'use client';
 
 import { STATUSES } from '@/data/users-data';
-import { Badge, Box, Button, Flex, Input, Text, Title } from 'rizzui';
+import { Badge, Box, Button, Flex, Input, Text, Title } from "@/components/rizzui";
 import StatusField from '@core/components/controlled-table/status-field';
 import { type Table as ReactTableType } from '@tanstack/react-table';
 import { PiMagnifyingGlassBold, PiTrashDuotone } from 'react-icons/pi';

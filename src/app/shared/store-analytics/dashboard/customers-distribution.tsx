@@ -9,7 +9,7 @@ import USFlagIcon from '@core/components/icons/language/USFlag';
 import { useMeasure } from '@core/hooks/use-measure';
 import cn from '@core/utils/class-names';
 import WorldMap from 'react-svg-worldmap';
-import { Box, Grid, Text } from 'rizzui';
+import { Box, Grid, Text } from "@/components/rizzui";
 
 const countriesData = [
   {

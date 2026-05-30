@@ -7,7 +7,7 @@ import Table from '@core/components/table';
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import TablePagination from '@core/components/table/pagination';
-import { Input } from 'rizzui';
+import { Input } from "@/components/rizzui";
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
 
 export type ProductsDataType = (typeof productsData)[number];

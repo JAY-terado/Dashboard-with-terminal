@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Text } from 'rizzui';
+import { Button, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import ButtonGroupAction from '@core/components/charts/button-group-action';

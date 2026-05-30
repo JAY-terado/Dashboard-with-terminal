@@ -12,7 +12,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 
 const data = [
   {

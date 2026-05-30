@@ -4,7 +4,7 @@ import { routes } from '@/config/routes';
 import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
-import { Checkbox, Flex, Text } from 'rizzui';
+import { Checkbox, Flex, Text } from "@/components/rizzui";
 import { PersonType } from '.';
 import { getStatusBadge } from '@core/components/table-utils/get-status-badge';
 import { PinningActions } from '@core/components/table-utils/row-pinning-actions';

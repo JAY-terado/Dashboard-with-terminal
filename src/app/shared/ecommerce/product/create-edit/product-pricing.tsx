@@ -1,7 +1,7 @@
 'use client';
 
 import { useFormContext } from 'react-hook-form';
-import { Input } from 'rizzui';
+import { Input } from "@/components/rizzui";
 
 export default function ProductPricing() {
   const {

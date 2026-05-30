@@ -1,6 +1,6 @@
 'use client';
 
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import EditProfileForm from '@/app/shared/logistics/customer-profile/edit-profile/edit-profile-form';

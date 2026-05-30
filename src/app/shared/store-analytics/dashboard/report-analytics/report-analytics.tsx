@@ -3,7 +3,7 @@
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import { ReportAnalyticsTable } from './table';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 
 export default function ReportAnalysis({ className }: { className?: string }) {
   return (

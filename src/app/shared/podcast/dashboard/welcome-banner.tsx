@@ -2,10 +2,10 @@
 
 import Image from 'next/image';
 import { PiPauseFill, PiPlayFill } from 'react-icons/pi';
-import { Box } from "rizzui";
-import { Button } from "rizzui";
-import { Flex } from "rizzui";
-import { Text, Title } from "rizzui";
+import { Box } from "@/components/rizzui";
+import { Button } from "@/components/rizzui";
+import { Flex } from "@/components/rizzui";
+import { Text, Title } from "@/components/rizzui";
 import { useAudioPlayerContext } from './music-player/audio-player-context';
 import cn from '@core/utils/class-names';
 

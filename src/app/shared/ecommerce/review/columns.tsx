@@ -4,7 +4,7 @@ import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
 import { PiStarFill } from 'react-icons/pi';
-import { Avatar, Button, Checkbox, Text, Title } from 'rizzui';
+import { Avatar, Button, Checkbox, Text, Title } from "@/components/rizzui";
 import { getStatusBadge } from '@core/components/table-utils/get-status-badge';
 import { ReviewTableMoreAction } from '@core/components/table-utils/review-table-more';
 import { ReviewsDataType } from './table';

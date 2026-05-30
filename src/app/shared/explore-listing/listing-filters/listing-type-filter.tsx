@@ -1,6 +1,6 @@
 'use client';
 
-import { AdvancedRadio, RadioGroup } from 'rizzui';
+import { AdvancedRadio, RadioGroup } from "@/components/rizzui";
 import { useEffect, useState } from 'react';
 import { useIsMounted } from '@core/hooks/use-is-mounted';
 import { InitialStateType } from '@/app/shared/explore-listing/listing-filters/filter-utils';

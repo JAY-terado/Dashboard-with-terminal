@@ -7,7 +7,7 @@ import { DatePicker } from '@core/ui/datepicker';
 import cn from '@core/utils/class-names';
 import { useState } from 'react';
 import { RadialBar, RadialBarChart, ResponsiveContainer } from 'recharts';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 
 const data = [
   {

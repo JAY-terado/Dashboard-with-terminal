@@ -18,7 +18,7 @@ import {
   PiTrash,
   PiTrashDuotone,
 } from 'react-icons/pi';
-import { Button, Flex, Input } from 'rizzui';
+import { Button, Flex, Input } from "@/components/rizzui";
 
 interface TableToolbarProps<T extends Record<string, any>> {
   table: ReactTableType<T>;

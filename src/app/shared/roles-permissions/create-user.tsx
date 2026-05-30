@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { PiXBold } from 'react-icons/pi';
 import { Controller, SubmitHandler } from 'react-hook-form';
 import { Form } from '@core/ui/form';
-import { Input, Button, ActionIcon, Title, Select } from 'rizzui';
+import { Input, Button, ActionIcon, Title, Select } from "@/components/rizzui";
 import {
   CreateUserInput,
   createUserSchema,

@@ -5,7 +5,7 @@ import { PiArrowCircleUpFill } from 'react-icons/pi';
 
 import UpStorageImg from '@public/upgrade-plan.webp';
 import { routes } from '@/config/routes';
-import { Flex, Title } from 'rizzui';
+import { Flex, Title } from "@/components/rizzui";
 import Image from 'next/image';
 
 export default function JobUpgradeStorage({

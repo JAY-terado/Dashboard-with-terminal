@@ -11,7 +11,7 @@ import SalesIcon from '@core/components/icons/sales';
 import TrendingDownIcon from '@core/components/icons/trending-down';
 import TrendingUpIcon from '@core/components/icons/trending-up';
 import cn from '@core/utils/class-names';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 
 const statData = [
   {

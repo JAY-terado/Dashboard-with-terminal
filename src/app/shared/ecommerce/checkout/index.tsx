@@ -20,7 +20,7 @@ import OrderSummery from '@/app/shared/ecommerce/checkout/order-summery';
 import OrderNote from '@/app/shared/ecommerce/checkout/order-note';
 import { DUMMY_ID } from '@/config/constants';
 import { routes } from '@/config/routes';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import {
   billingAddressAtom,

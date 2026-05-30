@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { SubmitHandler } from 'react-hook-form';
-import { Password, Switch, Button, Input, Text } from 'rizzui';
+import { Password, Switch, Button, Input, Text } from "@/components/rizzui";
 import { useMedia } from '@core/hooks/use-media';
 import { Form } from '@core/ui/form';
 import { routes } from '@/config/routes';

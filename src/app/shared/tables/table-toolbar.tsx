@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import cn from '@core/utils/class-names';
 import { useMedia } from 'react-use';
-import { ActionIcon, Button, Checkbox, Input, Popover, Title } from 'rizzui';
+import { ActionIcon, Button, Checkbox, Input, Popover, Title } from "@/components/rizzui";
 import { type Table as ReactTableType } from '@tanstack/react-table';
 import { getDateRangeStateValues } from '@core/utils/get-formatted-date';
 import {

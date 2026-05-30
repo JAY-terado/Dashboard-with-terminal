@@ -5,7 +5,7 @@ import { useSetAtom } from 'jotai';
 import { useResetAtom } from 'jotai/utils';
 import { PiArrowUpLight, PiCheck } from 'react-icons/pi';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import {
   formDataAtom,

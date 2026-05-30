@@ -11,7 +11,7 @@ import {
   Popover,
   Text,
   Title,
-} from 'rizzui';
+} from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 export const statusOptions = [

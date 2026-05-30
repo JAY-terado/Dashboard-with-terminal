@@ -19,7 +19,7 @@ import {
   RadioGroup,
   Text,
   Title,
-} from 'rizzui';
+} from "@/components/rizzui";
 import { z } from 'zod';
 import Footer from './footer';
 

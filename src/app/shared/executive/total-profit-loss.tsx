@@ -15,7 +15,7 @@ import {
   ResponsiveContainer,
 } from 'recharts';
 import DropdownAction from '@core/components/charts/dropdown-action';
-import { Title, Text } from 'rizzui';
+import { Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import TrendingUpIcon from '@core/components/icons/trending-up';
 import { formatNumber } from '@core/utils/format-number';

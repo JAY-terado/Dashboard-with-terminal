@@ -25,7 +25,7 @@ import {
   Title, 
   ActionIcon,
   FileInput
-} from 'rizzui';
+} from "@/components/rizzui";
 import { PiXBold } from "react-icons/pi";
 
 // Form validation schema

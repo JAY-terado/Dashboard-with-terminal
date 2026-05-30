@@ -5,7 +5,7 @@ import { createColumnHelper } from '@tanstack/react-table';
 import dayjs from 'dayjs';
 import Image from 'next/image';
 import { PiCloudArrowDown } from 'react-icons/pi';
-import { Badge, Button, Checkbox, Flex, Text, Title } from 'rizzui';
+import { Badge, Button, Checkbox, Flex, Text, Title } from "@/components/rizzui";
 import { BillingHistoryDataType } from './table';
 
 const statusColors: any = {

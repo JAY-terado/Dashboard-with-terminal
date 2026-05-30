@@ -4,7 +4,7 @@ import { useState } from 'react';
 import Image from 'next/image';
 import { DatePicker } from '@core/ui/datepicker';
 import WidgetCard from '@core/components/cards/widget-card';
-import { Button, Text } from 'rizzui';
+import { Button, Text } from "@/components/rizzui";
 import { topProducts } from '@/data/top-products-data';
 import Rating from '@core/components/rating';
 

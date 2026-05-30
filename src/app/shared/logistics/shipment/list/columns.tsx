@@ -7,7 +7,7 @@ import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
 import Link from 'next/link';
-import { Badge, Checkbox } from 'rizzui';
+import { Badge, Checkbox } from "@/components/rizzui";
 import { ShipmentListTableDataType } from './table';
 import { table } from 'console';
 

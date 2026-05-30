@@ -1,6 +1,6 @@
 'use client';
 
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import WidgetCard from '@core/components/cards/widget-card';
 import {
   Tooltip,

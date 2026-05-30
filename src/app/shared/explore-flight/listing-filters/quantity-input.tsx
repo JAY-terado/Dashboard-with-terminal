@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Input, ActionIcon } from 'rizzui';
+import { Input, ActionIcon } from "@/components/rizzui";
 import { PiPlusBold, PiMinusBold } from 'react-icons/pi';
 
 export default function QuantityInput({

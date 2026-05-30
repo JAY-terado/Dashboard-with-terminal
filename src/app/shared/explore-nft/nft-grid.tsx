@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import hasSearchedParams from '@core/utils/has-searched-params';
 import { filterNftsData } from '@/data/filter-nfts-data';
 // Note: using shuffle to simulate the filter effect

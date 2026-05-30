@@ -1,6 +1,6 @@
 'use client';
 
-import { ActionIcon, Title, Button } from 'rizzui';
+import { ActionIcon, Title, Button } from "@/components/rizzui";
 import { useDrawer } from '@/app/shared/drawer-views/use-drawer';
 import RatingFilter from '@/app/shared/ecommerce/shop/shop-filters/rating-filter';
 import PriceFilter from '@/app/shared/ecommerce/shop/shop-filters/price-filter';

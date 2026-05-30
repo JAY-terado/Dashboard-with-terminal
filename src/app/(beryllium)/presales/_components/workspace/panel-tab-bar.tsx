@@ -11,7 +11,7 @@ import {
   PiArrowsInBold,
   PiMagnifyingGlassBold
 } from 'react-icons/pi';
-import { Popover, Text, Input } from 'rizzui';
+import { Popover, Text, Input } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { WIDGET_META } from './workspace-widgets';
 import { 

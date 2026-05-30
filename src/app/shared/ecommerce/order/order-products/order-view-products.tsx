@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import Table, { HeaderCell } from '@core/components/legacy-table';
 import { useCart } from '@/store/quick-cart/cart.context';
-import { Title, Text } from 'rizzui';
+import { Title, Text } from "@/components/rizzui";
 import { toCurrency } from '@core/utils/to-currency';
 import { CartItem } from '@/types';
 

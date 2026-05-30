@@ -3,7 +3,7 @@
 import { recentActivitiesData } from '@/data/social-media-dashboard-data';
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
-import { Badge, Button, Text } from 'rizzui';
+import { Badge, Button, Text } from "@/components/rizzui";
 
 export default function RecentActivities({
   className,

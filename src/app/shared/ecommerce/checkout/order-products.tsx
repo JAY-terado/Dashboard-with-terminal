@@ -8,7 +8,7 @@ import { toCurrency } from '@core/utils/to-currency';
 import Image from 'next/image';
 import Link from 'next/link';
 import { PiMinus, PiPlus, PiTrash } from 'react-icons/pi';
-import { Empty, Title } from 'rizzui';
+import { Empty, Title } from "@/components/rizzui";
 
 export default function OrderProducts({
   items,

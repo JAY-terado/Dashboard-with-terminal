@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Input, Button } from 'rizzui';
+import { Input, Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { SubmitHandler } from 'react-hook-form';
 import { Form } from '@core/ui/form';

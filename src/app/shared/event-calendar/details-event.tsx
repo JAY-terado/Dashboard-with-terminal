@@ -3,7 +3,7 @@
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import { CalendarEvent } from '@/types';
 import { PiMapPin, PiXBold } from 'react-icons/pi';
-import { ActionIcon, Button, Text, Title } from 'rizzui';
+import { ActionIcon, Button, Text, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { MdOutlineCalendarMonth } from 'react-icons/md';
 import useEventCalendar from '@core/hooks/use-event-calendar';

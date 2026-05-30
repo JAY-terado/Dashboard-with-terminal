@@ -6,7 +6,7 @@ import PencilIcon from '@core/components/icons/pencil';
 import { createColumnHelper } from '@tanstack/react-table';
 import Image from 'next/image';
 import Link from 'next/link';
-import { ActionIcon, Checkbox, Text, Title, Tooltip } from 'rizzui';
+import { ActionIcon, Checkbox, Text, Title, Tooltip } from "@/components/rizzui";
 import { CategoryDataType } from './table';
 
 const columnHelper = createColumnHelper<CategoryDataType>();

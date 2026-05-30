@@ -7,7 +7,7 @@ import { useAtomValue } from 'jotai';
 import { FiExternalLink } from 'react-icons/fi';
 import { HiOutlineClipboardDocument } from 'react-icons/hi2';
 import { PiEye, PiDownloadSimpleBold, PiCheck } from 'react-icons/pi';
-import { Avatar, Title, Text, Tooltip } from 'rizzui';
+import { Avatar, Title, Text, Tooltip } from "@/components/rizzui";
 import { getRelativeTime } from '@core/utils/get-relative-time';
 import {
   dataAtom,

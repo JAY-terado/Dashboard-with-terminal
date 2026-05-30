@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge, Button, Flex, Input, Text } from 'rizzui';
+import { Badge, Button, Flex, Input, Text } from "@/components/rizzui";
 import { type Table as ReactTableType } from '@tanstack/react-table';
 import StatusField from '@core/components/controlled-table/status-field';
 import { PiMagnifyingGlassBold, PiTrashDuotone } from 'react-icons/pi';

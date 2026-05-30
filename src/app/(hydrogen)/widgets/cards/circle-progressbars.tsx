@@ -1,6 +1,6 @@
-import { Button } from "rizzui";
-import { Text } from "rizzui";
-import { ActionIcon } from "rizzui";
+import { Button } from "@/components/rizzui";
+import { Text } from "@/components/rizzui";
+import { ActionIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import CircleProgressBar from '@core/components/charts/circle-progressbar';

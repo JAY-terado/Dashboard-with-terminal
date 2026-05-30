@@ -3,7 +3,7 @@
 import { useAtom } from 'jotai';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { Controller, SubmitHandler, useForm } from 'react-hook-form';
-import { AdvancedRadio, RadioGroup, FieldError, Radio, Text } from 'rizzui';
+import { AdvancedRadio, RadioGroup, FieldError, Radio, Text } from "@/components/rizzui";
 import {
   formDataAtom,
   useStepperOne,

@@ -2,7 +2,7 @@
 
 import { PiArrowLineDownBold } from 'react-icons/pi';
 import { useModal } from '@/app/shared/modal-views/use-modal';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 
 type ExportButtonProps = {
   modalView: React.ReactNode;

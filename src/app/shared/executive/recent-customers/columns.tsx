@@ -8,7 +8,7 @@ import DateCell from '@core/ui/date-cell';
 import { toCurrency } from '@core/utils/to-currency';
 import { createColumnHelper } from '@tanstack/react-table';
 import { Area, AreaChart, ResponsiveContainer } from 'recharts';
-import { Box, Checkbox, Text } from 'rizzui';
+import { Box, Checkbox, Text } from "@/components/rizzui";
 import { RecentCustomersDataType } from '.';
 
 const columnHelper = createColumnHelper<RecentCustomersDataType>();

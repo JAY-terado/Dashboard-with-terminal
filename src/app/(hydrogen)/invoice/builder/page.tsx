@@ -7,7 +7,7 @@ import InvoiceBuilder from '@core/components/invoice-builder';
 import { useReactToPrint } from 'react-to-print';
 import { RefObject, useRef } from 'react';
 import { PiDownloadSimpleBold } from 'react-icons/pi';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 
 const pageHeader = {
   title: 'Invoice Builder',

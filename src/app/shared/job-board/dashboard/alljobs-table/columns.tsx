@@ -1,6 +1,6 @@
 'use client';
 
-import { Checkbox, Text } from 'rizzui';
+import { Checkbox, Text } from "@/components/rizzui";
 import { AllJobsTableDataType } from '.';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';

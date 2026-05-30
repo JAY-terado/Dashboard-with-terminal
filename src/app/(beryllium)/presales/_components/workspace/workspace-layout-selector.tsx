@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Title, Button, ActionIcon, Text } from 'rizzui';
+import { Title, Button, ActionIcon, Text } from "@/components/rizzui";
 import { PiXBold } from 'react-icons/pi';
 import cn from '@core/utils/class-names';
 import { useModal } from '@/app/shared/modal-views/use-modal';

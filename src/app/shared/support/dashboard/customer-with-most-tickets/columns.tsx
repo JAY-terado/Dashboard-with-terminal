@@ -6,7 +6,7 @@ import { getRelativeTime } from '@core/utils/get-relative-time';
 import { createColumnHelper } from '@tanstack/react-table';
 import Image from 'next/image';
 import { Area, AreaChart, ResponsiveContainer } from 'recharts';
-import { Button, Checkbox, Flex } from 'rizzui';
+import { Button, Checkbox, Flex } from "@/components/rizzui";
 import { CustomersWithMostTicketDataType } from '.';
 
 function chartColor(value: number) {

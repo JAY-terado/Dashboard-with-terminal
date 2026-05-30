@@ -8,7 +8,7 @@ import {
   useStepperOne,
 } from '@/app/shared/multi-step/multi-step-1';
 import FormSummary from '@/app/shared/multi-step/multi-step-1/form-summary';
-import { Text, CheckboxGroup, AdvancedCheckbox } from 'rizzui';
+import { Text, CheckboxGroup, AdvancedCheckbox } from "@/components/rizzui";
 import { PiTelevision, PiWifiHigh } from 'react-icons/pi';
 import KitchenIcon from '@core/components/icons/kitchen';
 import WashingMachineIcon from '@core/components/icons/washing-machine';

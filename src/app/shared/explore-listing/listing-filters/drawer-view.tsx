@@ -25,7 +25,7 @@ import { useFilterControls } from '@core/hooks/use-filter-control';
 import { useMedia } from '@core/hooks/use-media';
 import hasSearchedParams from '@core/utils/has-searched-params';
 import { PiXBold } from 'react-icons/pi';
-import { ActionIcon, Button, Title } from 'rizzui';
+import { ActionIcon, Button, Title } from "@/components/rizzui";
 
 export default function FilterDrawerView() {
   const { state, reset, applyFilter, clearFilter } = useFilterControls<

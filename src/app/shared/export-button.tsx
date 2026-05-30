@@ -1,7 +1,7 @@
 'use client';
 
 import { PiArrowLineUpBold } from 'react-icons/pi';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { exportToCSV } from '@core/utils/export-to-csv';
 

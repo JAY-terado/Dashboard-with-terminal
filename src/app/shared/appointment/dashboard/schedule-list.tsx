@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Title, Tooltip } from 'rizzui';
+import { Button, Title, Tooltip } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiPlusLight } from 'react-icons/pi';
 import Calendar from 'react-calendar';

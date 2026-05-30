@@ -7,7 +7,7 @@ import TableFooter from '@core/components/table/footer';
 import TablePagination from '@core/components/table/pagination';
 import Filters from './filters';
 import { shipmentListColumns } from './columns';
-import { Box } from 'rizzui';
+import { Box } from "@/components/rizzui";
 import { exportToCSV } from '@core/utils/export-to-csv';
 
 export type ShipmentListTableDataType = (typeof shipmentData)[number];

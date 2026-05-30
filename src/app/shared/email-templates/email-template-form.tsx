@@ -5,7 +5,7 @@ import { toast } from 'react-hot-toast';
 import { PiX } from 'react-icons/pi';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { SubmitHandler, useForm } from 'react-hook-form';
-import { Button, Input } from 'rizzui';
+import { Button, Input } from "@/components/rizzui";
 import { messages } from '@/config/messages';
 import { sendOrderConfirmationEmail } from '@/server/actions/order-confirmation.action';
 import { sendAccountConfirmationEmail } from '@/server/actions/account-confirmation.action';

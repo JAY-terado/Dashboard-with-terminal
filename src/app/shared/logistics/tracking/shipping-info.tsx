@@ -1,6 +1,6 @@
 'use client';
 
-import { Collapse, Title, Text } from 'rizzui';
+import { Collapse, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiCaretDownBold, PiPackageFill } from 'react-icons/pi';
 import DeliveryTruckIcon from '@core/components/icons/delivery-truck';

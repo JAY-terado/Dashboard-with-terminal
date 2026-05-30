@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { useState } from 'react';
 import toast from 'react-hot-toast';
 import { SubmitHandler } from 'react-hook-form';
-import { Button, Input } from 'rizzui';
+import { Button, Input } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { Form } from '@core/ui/form';
 import {

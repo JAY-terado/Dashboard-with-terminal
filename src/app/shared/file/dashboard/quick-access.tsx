@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import cn from '@core/utils/class-names';
-import { Title, Text, Button, Flex } from 'rizzui';
+import { Title, Text, Button, Flex } from "@/components/rizzui";
 import XMLIcon from '@core/components/icons/xml-solid';
 import PDFIcon from '@core/components/icons/pdf-solid';
 import DocIcon from '@core/components/icons/doc-solid';

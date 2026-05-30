@@ -1,6 +1,6 @@
 'use client';
 
-import { Box, Text } from 'rizzui';
+import { Box, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import { ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';

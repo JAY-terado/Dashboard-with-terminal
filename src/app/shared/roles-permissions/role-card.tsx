@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { PiDotsThreeBold } from 'react-icons/pi';
-import { Title, ActionIcon, Dropdown } from 'rizzui';
+import { Title, ActionIcon, Dropdown } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import UserCog from '@core/components/icons/user-cog';
 import { ROLES } from '@/config/constants';

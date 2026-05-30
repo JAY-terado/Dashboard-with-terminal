@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Input } from 'rizzui';
+import { Title, Input } from "@/components/rizzui";
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
 import ViewSwitcher from '@/app/shared/file/manager/view-switcher';
 import FileTypeDropdown from '@/app/shared/file/manager/file-sortby-type';

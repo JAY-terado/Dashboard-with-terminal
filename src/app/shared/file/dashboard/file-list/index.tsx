@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Box, Title } from 'rizzui';
+import { Box, Title } from "@/components/rizzui";
 import { routes } from '@/config/routes';
 import Table from '@core/components/table';
 import { fileListColumns } from './columns';

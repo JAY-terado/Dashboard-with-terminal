@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import ListingCard from '@core/components/cards/listing-card';
 import hasSearchedParams from '@core/utils/has-searched-params';
 import { filterProductsData } from '@/data/filter-products-data';

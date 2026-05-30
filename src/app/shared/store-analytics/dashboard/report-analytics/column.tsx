@@ -13,7 +13,7 @@ import { getOnlyRatings } from '@core/components/table-utils/get-ratings';
 import { toCurrency } from '@core/utils/to-currency';
 import { createColumnHelper } from '@tanstack/react-table';
 import { ReactElement } from 'react';
-import { Box, Flex, Text } from 'rizzui';
+import { Box, Flex, Text } from "@/components/rizzui";
 
 const columnHelper = createColumnHelper<ReportAnalyticsProduct>();
 

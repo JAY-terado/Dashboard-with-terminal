@@ -1,7 +1,7 @@
 'use client';
 
 import Countdown from 'react-countdown';
-import { Flex, Text } from 'rizzui';
+import { Flex, Text } from "@/components/rizzui";
 
 export function CountdownRenderer({
   days,

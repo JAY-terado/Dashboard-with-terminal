@@ -1,7 +1,7 @@
 'use client';
 
 import WorldMap from 'react-svg-worldmap';
-import { Text, Badge } from 'rizzui';
+import { Text, Badge } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useMeasure } from '@core/hooks/use-measure';
 import WidgetCard from '@core/components/cards/widget-card';

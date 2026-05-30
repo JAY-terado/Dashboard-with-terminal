@@ -9,7 +9,7 @@ import {
   Progressbar,
   Tooltip,
   ActionIcon,
-} from 'rizzui';
+} from "@/components/rizzui";
 import { routes } from '@/config/routes';
 import EyeIcon from '@core/components/icons/eye';
 import PencilIcon from '@core/components/icons/pencil';

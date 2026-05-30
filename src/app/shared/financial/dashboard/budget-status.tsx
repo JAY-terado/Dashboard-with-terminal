@@ -2,7 +2,7 @@
 
 import React from 'react';
 import WidgetCard from '@core/components/cards/widget-card';
-import { Tooltip } from 'rizzui';
+import { Tooltip } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 const calculatePercentage = (total: number, value: number): string =>

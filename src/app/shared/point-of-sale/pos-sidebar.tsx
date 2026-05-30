@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { CartItem } from '@/types';
-import { EmptyProductBoxIcon, Button, Title, Text } from 'rizzui';
+import { EmptyProductBoxIcon, Button, Title, Text } from "@/components/rizzui";
 import toast from 'react-hot-toast';
 import { PriceCalculation } from '@/app/shared/point-of-sale/pos-drawer-view';
 import POSOrderProductsTwo from '@/app/shared/point-of-sale/pos-order-products-two';

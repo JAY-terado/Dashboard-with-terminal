@@ -20,7 +20,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 
 export default function CashFlow({ className }: { className?: string }) {
   function handleChange(viewType: string) {

@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { Checkbox, Title, Text, Tooltip, ActionIcon, Badge } from 'rizzui';
+import { Checkbox, Title, Text, Tooltip, ActionIcon, Badge } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import PencilIcon from '@core/components/icons/pencil';
 import DeletePopover from '@core/components/delete-popover';

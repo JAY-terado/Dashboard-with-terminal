@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import {
   PiAppleLogoBold,

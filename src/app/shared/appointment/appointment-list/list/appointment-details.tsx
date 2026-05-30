@@ -3,7 +3,7 @@
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import dayjs from 'dayjs';
 import { PiCalendarCheckLight, PiMapPinLight, PiXBold } from 'react-icons/pi';
-import { Text, ActionIcon, Title, Button } from 'rizzui';
+import { Text, ActionIcon, Title, Button } from "@/components/rizzui";
 import { AppointmentDataType } from '.';
 
 export default function AppointmentDetails({

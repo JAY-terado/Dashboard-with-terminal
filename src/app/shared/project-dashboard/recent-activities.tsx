@@ -3,7 +3,7 @@
 import { projectRecentActivitiesData } from '@/data/project-dashboard';
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
-import { Box, Flex, Tab, Text } from 'rizzui';
+import { Box, Flex, Tab, Text } from "@/components/rizzui";
 
 export default function RecentActivities({
   className,

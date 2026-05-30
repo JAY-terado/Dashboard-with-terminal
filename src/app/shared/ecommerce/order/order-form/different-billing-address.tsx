@@ -1,7 +1,7 @@
 'use client';
 
 import { Controller, useFormContext } from 'react-hook-form';
-import { Checkbox } from 'rizzui';
+import { Checkbox } from "@/components/rizzui";
 
 interface DifferentBillingAddressProps {
   className?: string;

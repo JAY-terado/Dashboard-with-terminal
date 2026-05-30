@@ -1,6 +1,6 @@
 'use client';
 
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { toCurrency } from '@core/utils/to-currency';
 import BasicTableWidget from '@core/components/controlled-table/basic-table-widget';

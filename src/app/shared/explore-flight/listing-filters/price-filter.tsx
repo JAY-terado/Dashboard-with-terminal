@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import RangeSlider from '@core/ui/range-slider';
-import { Collapse } from 'rizzui';
+import { Collapse } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiCaretDownBold } from 'react-icons/pi';
 

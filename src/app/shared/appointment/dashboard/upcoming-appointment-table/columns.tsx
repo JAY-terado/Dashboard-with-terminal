@@ -5,7 +5,7 @@ import TableRowActionGroup from '@core/components/table-utils/table-row-action-g
 import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
-import { Checkbox, Text } from 'rizzui';
+import { Checkbox, Text } from "@/components/rizzui";
 import { AppointmentDataType } from '.';
 
 const statusOptions = [

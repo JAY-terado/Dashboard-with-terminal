@@ -7,7 +7,7 @@ import Table from '@core/components/table';
 import { useTanStackTable } from '@core/components/table/custom/use-TanStack-Table';
 import { websiteMetricData } from '@/data/website-metrics-data';
 import TablePagination from '@core/components/table/pagination';
-import { Input } from 'rizzui';
+import { Input } from "@/components/rizzui";
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
 import { websiteMetricColumns } from './columns';
 

@@ -2,7 +2,7 @@
 
 import { getOptionByValue } from '@/app/shared/explore-flight/listing-filters/filter-utils';
 import { InitialStateType, otherOptions } from '@/data/flight-filter-data';
-import { Select } from 'rizzui';
+import { Select } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { HiOutlineAdjustmentsHorizontal } from 'react-icons/hi2';
 

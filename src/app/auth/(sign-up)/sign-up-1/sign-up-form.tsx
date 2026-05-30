@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { SubmitHandler } from 'react-hook-form';
 import { PiArrowRightBold } from 'react-icons/pi';
-import { Password, Checkbox, Button, Input, Text } from 'rizzui';
+import { Password, Checkbox, Button, Input, Text } from "@/components/rizzui";
 import { Form } from '@core/ui/form';
 import { routes } from '@/config/routes';
 import { SignUpSchema, signUpSchema } from '@/validators/signup.schema';

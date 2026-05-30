@@ -14,7 +14,7 @@ import {
   PiTrash,
   PiTrashDuotone,
 } from 'react-icons/pi';
-import { Badge, Button, Flex, Input, Text } from 'rizzui';
+import { Badge, Button, Flex, Input, Text } from "@/components/rizzui";
 
 const statusOptions = [
   {

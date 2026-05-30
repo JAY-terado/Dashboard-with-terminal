@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Select } from 'rizzui';
+import { Select } from "@/components/rizzui";
 import {
   InitialStateType,
   maxHOAOptions,

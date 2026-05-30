@@ -1,7 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react';
-import { Select, Title } from 'rizzui';
+import { Select, Title } from "@/components/rizzui";
 import { PiMinus } from 'react-icons/pi';
 import {
   InitialStateType,

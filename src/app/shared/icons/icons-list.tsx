@@ -5,7 +5,7 @@ import { toast } from 'react-hot-toast';
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
 import { routes } from '@/config/routes';
 import PageHeader from '@/app/shared/page-header';
-import { Input, Empty, EmptyProductBoxIcon } from 'rizzui';
+import { Input, Empty, EmptyProductBoxIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import SVGLoader from '@core/components/svg-loader';
 import { iconsData } from '@core/data/icons-data';

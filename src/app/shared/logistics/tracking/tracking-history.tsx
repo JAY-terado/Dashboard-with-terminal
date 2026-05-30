@@ -2,7 +2,7 @@
 
 import { Element } from 'react-scroll';
 import { PiCheckCircle, PiCaretDownBold } from 'react-icons/pi';
-import { Collapse } from 'rizzui';
+import { Collapse } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import Timeline from '@/app/shared/logistics/tracking/timeline';
 

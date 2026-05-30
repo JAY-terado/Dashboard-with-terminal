@@ -1,6 +1,6 @@
 'use client';
 
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import { useDrawer } from '@/app/shared/drawer-views/use-drawer';
 import { PiSliders } from 'react-icons/pi';
 import NFTDrawerView from '@/app/shared/explore-nft/nft-drawer-view';

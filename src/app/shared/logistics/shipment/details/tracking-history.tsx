@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { Text, Badge } from 'rizzui';
+import { Text, Badge } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { formatDate } from '@core/utils/format-date';
 import BasicTableWidget from '@core/components/controlled-table/basic-table-widget';

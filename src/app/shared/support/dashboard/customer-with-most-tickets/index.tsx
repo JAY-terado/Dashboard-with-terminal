@@ -7,7 +7,7 @@ import { useTanStackTable } from '@core/components/table/custom/use-TanStack-Tab
 import Table from '@core/components/table';
 import cn from '@core/utils/class-names';
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
-import { Input } from 'rizzui';
+import { Input } from "@/components/rizzui";
 
 export type CustomersWithMostTicketDataType =
   (typeof customerWithTickets)[number];

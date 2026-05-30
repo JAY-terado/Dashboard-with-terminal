@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { SubmitHandler, Controller } from 'react-hook-form';
 import { PiDesktop } from 'react-icons/pi';
 import { Form } from '@core/ui/form';
-import { Button, Password, Title, Text } from 'rizzui';
+import { Button, Password, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { ProfileHeader } from '@/app/shared/account-settings/profile-settings';
 import HorizontalFormBlockWrapper from '@/app/shared/account-settings/horiozontal-block';

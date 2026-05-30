@@ -4,7 +4,7 @@ import ToggleColumns from '@core/components/table-utils/toggle-columns';
 import { socialMediaOptions } from '@/data/social-media-dashboard-data';
 import { type Table as ReactTableType } from '@tanstack/react-table';
 import { useState } from 'react';
-import { Flex, MultiSelect } from 'rizzui';
+import { Flex, MultiSelect } from "@/components/rizzui";
 import { renderCustomSocialMultiOption, renderDisplayValue } from '../utils';
 
 interface TableToolbarProps<T extends Record<string, any>> {

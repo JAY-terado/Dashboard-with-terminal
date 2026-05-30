@@ -4,7 +4,7 @@ import { useEffect, useState, type ComponentProps } from 'react';
 import WidgetCard from '@core/components/cards/widget-card';
 import WorldMap, { type CountryContext } from 'react-svg-worldmap';
 import { useElementSize } from '@core/hooks/use-element-size';
-import { Text, Badge, Loader } from 'rizzui';
+import { Text, Badge, Loader } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 const data = [

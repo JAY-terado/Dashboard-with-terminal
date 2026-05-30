@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { InitialStateType, roadTripData } from '@/data/flight-filter-data';
-import { Button, Tab } from 'rizzui';
+import { Button, Tab } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import ExchangeIcon from '@core/components/icons/exchange';
 import { DatePicker } from '@core/ui/datepicker';

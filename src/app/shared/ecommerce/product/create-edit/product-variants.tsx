@@ -2,7 +2,7 @@
 
 import dynamic from 'next/dynamic';
 import { Controller, useFieldArray, useFormContext } from 'react-hook-form';
-import { Input, Button, ActionIcon, Select } from 'rizzui';
+import { Input, Button, ActionIcon, Select } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import FormGroup from '@/app/shared/form-group';
 import { useCallback } from 'react';

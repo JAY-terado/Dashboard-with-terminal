@@ -11,7 +11,7 @@ import cn from '@core/utils/class-names';
 import { atom, useAtom, useSetAtom } from 'jotai';
 import { usePathname, useRouter } from 'next/navigation';
 import { useTransition } from 'react';
-import { Badge } from 'rizzui';
+import { Badge } from "@/components/rizzui";
 
 export const supportNavItems = [
   {

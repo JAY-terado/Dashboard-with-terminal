@@ -2,7 +2,7 @@
 
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
-import { Box, Flex, Text } from 'rizzui';
+import { Box, Flex, Text } from "@/components/rizzui";
 
 const CELL_PER_ROW = 40;
 

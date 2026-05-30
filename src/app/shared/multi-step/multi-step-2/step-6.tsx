@@ -12,7 +12,7 @@ import {
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useAtom } from 'jotai';
 import { Controller, SubmitHandler, useForm } from 'react-hook-form';
-import { FieldError, Input, Radio, RadioGroup, Text } from 'rizzui';
+import { FieldError, Input, Radio, RadioGroup, Text } from "@/components/rizzui";
 
 export default function StepTwo() {
   const [formData, setFormData] = useAtom(formDataAtom);

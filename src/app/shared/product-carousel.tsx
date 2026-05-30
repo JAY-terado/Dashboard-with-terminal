@@ -1,7 +1,7 @@
 'use client';
 
 import { PiCaretLeftBold, PiCaretRightBold } from 'react-icons/pi';
-import { ActionIcon, Title } from 'rizzui';
+import { ActionIcon, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useDirection } from '@core/hooks/use-direction';
 import { Navigation, Swiper, SwiperSlide } from '@core/ui/carousel/carousel';

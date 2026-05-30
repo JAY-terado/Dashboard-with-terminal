@@ -2,7 +2,7 @@
 
 import { useRouter } from 'next/navigation';
 import { PiArrowLeft } from 'react-icons/pi';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 
 export default function BackButton() {
   const router = useRouter();

@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Checkbox, Title, CheckboxGroup } from 'rizzui';
+import { Checkbox, Title, CheckboxGroup } from "@/components/rizzui";
 import { PiStar, PiStarFill } from 'react-icons/pi';
 import { ratingData } from '@/app/shared/ecommerce/shop/shop-filters/filter-utils';
 

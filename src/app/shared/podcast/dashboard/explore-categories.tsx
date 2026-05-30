@@ -3,10 +3,10 @@ import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import Link from 'next/link';
 import { PiCaretRightBold } from 'react-icons/pi';
-import { Box } from "rizzui";
-import { Flex } from "rizzui";
-import { Grid } from "rizzui";
-import { Title } from "rizzui";
+import { Box } from "@/components/rizzui";
+import { Flex } from "@/components/rizzui";
+import { Grid } from "@/components/rizzui";
+import { Title } from "@/components/rizzui";
 
 type CategoryType = (typeof podcastsCategories)[0];
 

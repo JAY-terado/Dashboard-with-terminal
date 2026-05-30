@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
-import { Button, Input, PinCode, Text } from 'rizzui';
+import { Button, Input, PinCode, Text } from "@/components/rizzui";
 import { Form } from '@core/ui/form';
 import { SubmitHandler, UseFormReturn } from 'react-hook-form';
 import { PiArrowRightBold, PiEnvelopeSimple } from 'react-icons/pi';

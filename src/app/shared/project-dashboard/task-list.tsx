@@ -2,7 +2,7 @@
 
 import dayjs from 'dayjs';
 import Calendar from 'react-calendar';
-import { Progressbar, Text, Title } from 'rizzui';
+import { Progressbar, Text, Title } from "@/components/rizzui";
 import { PiArrowRight, PiArrowLeft } from 'react-icons/pi';
 import { projectTaskData } from '@/data/project-dashboard';
 import { LooseValue } from 'node_modules/react-calendar/dist/esm/shared/types';

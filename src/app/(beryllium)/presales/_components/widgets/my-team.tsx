@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Text, Button, Avatar } from 'rizzui';
+import { Title, Text, Button, Avatar } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 interface TeamMember {

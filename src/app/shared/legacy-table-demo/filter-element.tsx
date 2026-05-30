@@ -3,7 +3,7 @@
 import React from 'react';
 import { PiTrashDuotone } from 'react-icons/pi';
 import StatusField from '@core/components/controlled-table/status-field';
-import { Button, Badge, Text } from 'rizzui';
+import { Button, Badge, Text } from "@/components/rizzui";
 import DateFiled from '@core/components/controlled-table/date-field';
 import PriceField from '@core/components/controlled-table/price-field';
 import { getDateRangeStateValues } from '@core/utils/get-formatted-date';

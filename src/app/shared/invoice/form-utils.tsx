@@ -1,7 +1,7 @@
 'use client';
 
 import z from 'zod';
-import { Title, Text, Badge } from 'rizzui';
+import { Title, Text, Badge } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 // form zod validation schema

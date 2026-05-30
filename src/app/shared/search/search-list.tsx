@@ -10,7 +10,7 @@ import {
   Title,
   Input,
   cn,
-} from 'rizzui';
+} from "@/components/rizzui";
 import {
   PiFileTextDuotone,
   PiMagnifyingGlassBold,

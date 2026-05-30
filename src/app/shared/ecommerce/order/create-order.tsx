@@ -15,7 +15,7 @@ import DifferentBillingAddress from '@/app/shared/ecommerce/order/order-form/dif
 import { defaultValues } from '@/app/shared/ecommerce/order/order-form/form-utils';
 import CustomerInfo from '@/app/shared/ecommerce/order/order-form/customer-info';
 import AddressInfo from '@/app/shared/ecommerce/order/order-form/address-info';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import OrderSummery from '@/app/shared/ecommerce/checkout/order-summery';
 import { useRouter } from 'next/navigation';

@@ -25,7 +25,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Flex, Text, Title } from 'rizzui';
+import { Flex, Text, Title } from "@/components/rizzui";
 
 export default function OpenJobOverview({ className }: { className?: string }) {
   const [data, setData] = useState(openJobStatsDailyData);

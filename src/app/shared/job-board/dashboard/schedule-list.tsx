@@ -12,7 +12,7 @@ import {
   PiDotsThreeVerticalBold,
   PiPlusBold,
 } from 'react-icons/pi';
-import { ActionIcon, Box, Button, Flex, Title } from 'rizzui';
+import { ActionIcon, Box, Button, Flex, Title } from "@/components/rizzui";
 import ScheduleModal from './schedule-modal';
 import JobUpgradeStorage from './upgrade-storage';
 

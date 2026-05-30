@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Tab } from 'rizzui';
+import { Title, Tab } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import PriceFilter from '@/app/shared/explore-flight/listing-filters/time-filter';
 

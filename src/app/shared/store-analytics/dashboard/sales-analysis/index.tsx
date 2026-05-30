@@ -9,7 +9,7 @@ const Chart = dynamic(() => import('./chart'), {
 });
 
 import cn from '@core/utils/class-names';
-import { Box, Text } from 'rizzui';
+import { Box, Text } from "@/components/rizzui";
 
 const viewOptions = [
   {

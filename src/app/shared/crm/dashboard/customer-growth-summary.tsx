@@ -18,7 +18,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Box } from 'rizzui';
+import { Box } from "@/components/rizzui";
 
 export default function CustomerGrowthSummary({
   className,

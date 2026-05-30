@@ -5,7 +5,7 @@ import dynamic from 'next/dynamic';
 import { SubmitHandler, Controller } from 'react-hook-form';
 import { PiEnvelopeSimple, PiSealCheckFill } from 'react-icons/pi';
 import { Form } from '@core/ui/form';
-import { Button, Title, Text, Input, Checkbox, Select } from 'rizzui';
+import { Button, Title, Text, Input, Checkbox, Select } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { routes } from '@/config/routes';
 import toast from 'react-hot-toast';

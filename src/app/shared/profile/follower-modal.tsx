@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Avatar, Button, Text } from 'rizzui';
+import { Avatar, Button, Text } from "@/components/rizzui";
 
 type FollowerRowProps = {
   row: {

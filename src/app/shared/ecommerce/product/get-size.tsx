@@ -1,7 +1,7 @@
 'use client';
 
 import { Controller, useFormContext } from 'react-hook-form';
-import { AdvancedRadio, FieldError, RadioGroup } from 'rizzui';
+import { AdvancedRadio, FieldError, RadioGroup } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 export default function GetSize({ sizes }: { sizes?: number[] }) {

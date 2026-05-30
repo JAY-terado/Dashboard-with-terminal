@@ -20,7 +20,7 @@ import { useRouter } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 import { HiOutlineAdjustmentsHorizontal } from 'react-icons/hi2';
 import { PiCaretDownBold, PiChats, PiPaperclipLight } from 'react-icons/pi';
-import { ActionIcon, Badge, Checkbox, Select, Title } from 'rizzui';
+import { ActionIcon, Badge, Checkbox, Select, Title } from "@/components/rizzui";
 
 interface MessageItemProps {
   message: MessageType;

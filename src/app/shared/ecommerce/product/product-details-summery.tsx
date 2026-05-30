@@ -7,7 +7,7 @@ import { PiShoppingCartSimple } from 'react-icons/pi';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { FormProvider, SubmitHandler, useForm } from 'react-hook-form';
 import { Product } from '@/types';
-import { Button, Title, Text } from 'rizzui';
+import { Button, Title, Text } from "@/components/rizzui";
 import { toCurrency } from '@core/utils/to-currency';
 import GetSize from '@/app/shared/ecommerce/product/get-size';
 import { calculatePercentage } from '@core/utils/calculate-percentage';

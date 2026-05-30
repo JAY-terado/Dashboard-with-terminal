@@ -5,7 +5,7 @@ import { PiChecksBold, PiFilesBold, PiXBold } from 'react-icons/pi';
 import { RgbaColorPicker } from 'react-colorful';
 import { Controller, SubmitHandler } from 'react-hook-form';
 import { Form } from '@core/ui/form';
-import { Input, Button, Tooltip, ActionIcon, Title } from 'rizzui';
+import { Input, Button, Tooltip, ActionIcon, Title } from "@/components/rizzui";
 import { useCopyToClipboard } from '@core/hooks/use-copy-to-clipboard';
 import {
   CreateRoleInput,

@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 import RangeSlider from '@core/ui/range-slider';
 
 // Price rating component

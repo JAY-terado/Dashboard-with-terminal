@@ -5,7 +5,7 @@ import TrendingUpIcon from '@core/components/icons/trending-up';
 import cn from '@core/utils/class-names';
 import { toCurrency } from '@core/utils/to-currency';
 import { Cell, Label, Pie, PieChart, ResponsiveContainer } from 'recharts';
-import { Button, Text, Title } from 'rizzui';
+import { Button, Text, Title } from "@/components/rizzui";
 
 const bgData = [{ name: 'Total', value: 100 }];
 

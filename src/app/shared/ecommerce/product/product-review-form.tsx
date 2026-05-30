@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Textarea, Button } from 'rizzui';
+import { Textarea, Button } from "@/components/rizzui";
 import Rate from '@core/ui/rate';
 import { Controller, SubmitHandler } from 'react-hook-form';
 import { Form } from '@core/ui/form';

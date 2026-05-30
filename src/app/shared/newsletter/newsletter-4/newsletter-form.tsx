@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { PiPaperPlaneRightFill } from 'react-icons/pi';
 import { SubmitHandler } from 'react-hook-form';
-import { Button, Input } from 'rizzui';
+import { Button, Input } from "@/components/rizzui";
 import { Form } from '@core/ui/form';
 import {
   NewsLetterFormSchema,

@@ -7,7 +7,7 @@ import Table from '@core/components/table';
 import { useTanStackTable } from '@core/components/table/custom/use-TanStack-Table';
 import TablePagination from '@core/components/table/pagination';
 import cn from '@core/utils/class-names';
-import { Input } from 'rizzui';
+import { Input } from "@/components/rizzui";
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
 
 export type OrdersDataType = (typeof orderData)[number];

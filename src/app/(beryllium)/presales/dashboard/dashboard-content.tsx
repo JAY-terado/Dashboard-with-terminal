@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from 'react';
-import { Text, Button } from 'rizzui';
+import { Text, Button } from "@/components/rizzui";
 import { PiPlusBold, PiCalendarBold } from 'react-icons/pi';
 import TotalLeads from '../_components/widgets/total-leads';
 import ByRegion from '../_components/widgets/by-region';

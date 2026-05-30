@@ -1,6 +1,6 @@
 'use client';
 
-import { Input, Text } from 'rizzui';
+import { Input, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import React, { useState } from 'react';
 import RangeSlider from '@core/ui/range-slider';

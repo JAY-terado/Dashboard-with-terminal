@@ -8,7 +8,7 @@ import {
 import WidgetCard from '@core/components/cards/widget-card';
 import DropdownAction from '@core/components/charts/dropdown-action';
 import cn from '@core/utils/class-names';
-import { Avatar, Box, Flex, Text, Tooltip } from 'rizzui';
+import { Avatar, Box, Flex, Text, Tooltip } from "@/components/rizzui";
 
 export default function ProjectActiveTasks({
   className,

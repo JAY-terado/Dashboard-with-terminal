@@ -7,7 +7,7 @@ import {
   PiProhibitInset,
   PiDotsThreeBold,
 } from 'react-icons/pi';
-import { ActionIcon, Dropdown } from 'rizzui';
+import { ActionIcon, Dropdown } from "@/components/rizzui";
 
 const actions = [
   {

@@ -14,7 +14,7 @@ import {
   Input,
   Loader,
   cn,
-} from 'rizzui';
+} from "@/components/rizzui";
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import dynamic from 'next/dynamic';
 import {

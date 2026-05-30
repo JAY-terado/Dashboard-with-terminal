@@ -1,6 +1,6 @@
 'use client';
 
-import { PinCode, Button } from 'rizzui';
+import { PinCode, Button } from "@/components/rizzui";
 import { Form } from '@core/ui/form';
 import { SubmitHandler } from 'react-hook-form';
 

@@ -6,7 +6,7 @@ import TrendingUpIcon from '@core/components/icons/trending-up';
 import { getChartColorByEngagementRate } from '@core/components/table-utils/get-chart-color-by-engagement-rate';
 import cn from '@core/utils/class-names';
 import { Area, AreaChart, ResponsiveContainer } from 'recharts';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 
 interface StatsCardsProps {
   className?: string;

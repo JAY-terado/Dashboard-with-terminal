@@ -5,7 +5,7 @@ import dynamic from 'next/dynamic';
 import { SubmitHandler, Controller } from 'react-hook-form';
 import SelectLoader from '@core/components/loader/select-loader';
 import QuillLoader from '@core/components/loader/quill-loader';
-import { Button, Input, Select, Text, Title } from 'rizzui';
+import { Button, Input, Select, Text, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { Form } from '@core/ui/form';
 import {

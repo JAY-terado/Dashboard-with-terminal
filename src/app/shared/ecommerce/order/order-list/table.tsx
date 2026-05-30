@@ -8,7 +8,7 @@ import { useTanStackTable } from '@core/components/table/custom/use-TanStack-Tab
 import TablePagination from '@core/components/table/pagination';
 import { OrdersDataType } from '@/app/shared/ecommerce/dashboard/recent-order';
 import Filters from './filters';
-import { TableVariantProps } from 'rizzui';
+import { TableVariantProps } from "@/components/rizzui";
 
 export default function OrderTable({
   className,

@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { QRCodeSVG } from 'qrcode.react';
-import { Badge, Title, Text } from 'rizzui';
+import { Badge, Title, Text } from "@/components/rizzui";
 import Table from '@core/components/legacy-table';
 import { siteConfig } from '@/config/site.config';
 

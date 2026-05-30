@@ -10,7 +10,7 @@ import {
   Checkbox,
   RadioGroup,
   Radio,
-} from 'rizzui';
+} from "@/components/rizzui";
 
 const generalOptions = [
   {

@@ -2,7 +2,7 @@
 
 import { Controller, useFormContext } from 'react-hook-form';
 import FormGroup from '@/app/shared/form-group';
-import { Select } from 'rizzui';
+import { Select } from "@/components/rizzui";
 import NoSSR from '@core/components/no-ssr';
 import {
   offices,

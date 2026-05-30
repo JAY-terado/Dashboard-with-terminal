@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Text } from 'rizzui';
+import { Title, Text } from "@/components/rizzui";
 import WidgetCard from '@core/components/cards/widget-card';
 import { CustomTooltip } from '@core/components/charts/custom-tooltip';
 import { CustomYAxisTick } from '@core/components/charts/custom-yaxis-tick';

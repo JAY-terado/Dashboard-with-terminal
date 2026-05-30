@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { routes } from '@/config/routes';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
-import { Button, Title } from 'rizzui';
+import { Button, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiArrowLineRight, PiUserCirclePlus } from 'react-icons/pi';
 import { FcGoogle } from 'react-icons/fc';

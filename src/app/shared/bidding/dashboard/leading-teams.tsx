@@ -7,7 +7,7 @@ import TrendingDownIcon from '@core/components/icons/trending-down';
 import TrendingUpIcon from '@core/components/icons/trending-up';
 import cn from '@core/utils/class-names';
 import { formatNumberWithCommas } from '@core/utils/format-number';
-import { Box, Flex, Grid, Text, Title } from 'rizzui';
+import { Box, Flex, Grid, Text, Title } from "@/components/rizzui";
 
 const viewOptions = [
   {

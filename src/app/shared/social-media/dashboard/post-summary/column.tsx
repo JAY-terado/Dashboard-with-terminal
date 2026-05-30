@@ -10,7 +10,7 @@ import { createColumnHelper } from '@tanstack/react-table';
 import LinkedInSquareIcon from '@core/components/icons/linkedin-square';
 import FacebookSquareIcon from '@core/components/icons/facebook-square';
 import { PostSummaryDataType } from '@/data/social-media-dashboard-data';
-import { Flex } from 'rizzui';
+import { Flex } from "@/components/rizzui";
 
 const columnHelper = createColumnHelper<PostSummaryDataType>();
 

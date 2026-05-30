@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { Controller, useFormContext } from 'react-hook-form';
 import { DatePicker } from '@core/ui/datepicker';
 import PencilIcon from '@core/components/icons/pencil';
-import { Text, Title, Select, ActionIcon } from 'rizzui';
+import { Text, Title, Select, ActionIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 interface CustomerInfoProps {

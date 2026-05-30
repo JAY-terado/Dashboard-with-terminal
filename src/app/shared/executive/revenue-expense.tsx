@@ -15,7 +15,7 @@ import {
 import { useMedia } from '@core/hooks/use-media';
 import { CustomYAxisTick } from '@core/components/charts/custom-yaxis-tick';
 import { CustomTooltip } from '@core/components/charts/custom-tooltip';
-import { Title, Text } from 'rizzui';
+import { Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import TrendingUpIcon from '@core/components/icons/trending-up';
 import DropdownAction from '@core/components/charts/dropdown-action';

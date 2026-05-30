@@ -1,7 +1,7 @@
 'use client';
 
 import dynamic from 'next/dynamic';
-import { Button, Title, ActionIcon, cn } from 'rizzui';
+import { Button, Title, ActionIcon, cn } from "@/components/rizzui";
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import { PiPlusBold, PiFolderBold, PiXBold } from 'react-icons/pi';
 const CreateFolder = dynamic(

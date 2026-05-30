@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import ButtonGroupAction from '@core/components/charts/button-group-action';
 import { DatePicker } from '@core/ui/datepicker';
-import { Flex, Title } from 'rizzui';
+import { Flex, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { pageMetricData } from '@/data/page-metrics-data';
 import { pageMetricsColumns } from '@/app/shared/analytics-dashboard/page-metric/columns';

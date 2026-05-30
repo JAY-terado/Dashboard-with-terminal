@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Button, Title } from 'rizzui';
+import { Button, Title } from "@/components/rizzui";
 import LoggedInDevices from '@/app/shared/account-settings/logged-in-devices/table';
 import HorizontalFormBlockWrapper from '@/app/shared/account-settings/horiozontal-block';
 import GithubIcon from '@core/components/icons/github';

@@ -2,7 +2,7 @@
 
 import { ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 import { useState } from 'react';
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import { useElementSize } from '@core/hooks/use-element-size';

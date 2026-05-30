@@ -10,7 +10,7 @@ import {
   ComposedChart,
   ResponsiveContainer,
 } from 'recharts';
-import { Badge } from 'rizzui';
+import { Badge } from "@/components/rizzui";
 import WidgetCard from '@core/components/cards/widget-card';
 import { CustomTooltip } from '@core/components/charts/custom-tooltip';
 

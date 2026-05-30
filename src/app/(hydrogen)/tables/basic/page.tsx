@@ -1,4 +1,4 @@
-import { Box } from "rizzui";
+import { Box } from "@/components/rizzui";
 import { routes } from '@/config/routes';
 import { orderData } from '@/data/order-data';
 import { metaObject } from '@/config/site.config';

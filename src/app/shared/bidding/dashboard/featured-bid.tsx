@@ -3,7 +3,7 @@
 import WidgetCard from '@core/components/cards/widget-card';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Button, Input, NumberInput, Text } from 'rizzui';
+import { Button, Input, NumberInput, Text } from "@/components/rizzui";
 import CountdownTimer from './countdown-timer';
 
 export default function FeaturedBid({ className }: { className?: string }) {

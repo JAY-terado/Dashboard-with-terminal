@@ -2,11 +2,11 @@ import { biddingData } from '@/data/bidding-data';
 import { toCurrency } from '@core/utils/to-currency';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Box } from "rizzui";
-import { Button } from "rizzui";
-import { Flex } from "rizzui";
-import { Grid } from "rizzui";
-import { Text, Title } from "rizzui";
+import { Box } from "@/components/rizzui";
+import { Button } from "@/components/rizzui";
+import { Flex } from "@/components/rizzui";
+import { Grid } from "@/components/rizzui";
+import { Text, Title } from "@/components/rizzui";
 // import CountdownTimer from './countdown-timer';
 import cn from '@core/utils/class-names';
 

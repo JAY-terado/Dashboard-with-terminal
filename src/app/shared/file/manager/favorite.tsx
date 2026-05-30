@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { ActionIcon } from 'rizzui';
+import { ActionIcon } from "@/components/rizzui";
 import { PiStar, PiStarFill } from 'react-icons/pi';
 
 export default function Favorite() {

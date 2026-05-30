@@ -10,9 +10,9 @@ import {
   PiX,
   PiXBold,
 } from 'react-icons/pi';
-import { Box } from "rizzui";
-import { Flex } from "rizzui";
-import { Text, Title } from "rizzui";
+import { Box } from "@/components/rizzui";
+import { Flex } from "@/components/rizzui";
+import { Text, Title } from "@/components/rizzui";
 import { useAudioPlayerContext } from './audio-player-context';
 import MusicPlayer, { currentPlayerAtom } from './music-player';
 import { Modal } from '@core/modal-views/modal';

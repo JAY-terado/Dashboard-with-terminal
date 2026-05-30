@@ -8,7 +8,7 @@ import {
 import cn from '@core/utils/class-names';
 import React from 'react';
 import { PiTrendDownBold, PiTrendUpBold } from 'react-icons/pi';
-import { Badge, Box, Flex, Text } from 'rizzui';
+import { Badge, Box, Flex, Text } from "@/components/rizzui";
 
 export type StatCardProps = {
   className?: string;

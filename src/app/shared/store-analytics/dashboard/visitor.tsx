@@ -3,7 +3,7 @@
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import shuffle from 'lodash/shuffle';
-import { Box, Flex, Text } from 'rizzui';
+import { Box, Flex, Text } from "@/components/rizzui";
 
 const COLORS = {
   gray: 'rgba(170, 170, 170, 0.247)',

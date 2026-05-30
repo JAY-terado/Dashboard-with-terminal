@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
-import { Button, Input, Checkbox, Text } from 'rizzui';
+import { Button, Input, Checkbox, Text } from "@/components/rizzui";
 import { Form } from '@core/ui/form';
 import { SubmitHandler, UseFormReturn } from 'react-hook-form';
 import { PiArrowRightBold } from 'react-icons/pi';

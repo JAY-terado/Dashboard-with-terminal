@@ -3,7 +3,7 @@
 import Favorite from '@/app/shared/file/manager/favorite';
 import { MoreActions } from '@core/components/table-utils/more-actions';
 import cn from '@core/utils/class-names';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 
 export default function Grid({
   data,

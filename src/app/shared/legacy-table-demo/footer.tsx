@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Text } from 'rizzui';
+import { Button, Text } from "@/components/rizzui";
 
 interface TableFooterProps {
   checkedItems: string[];

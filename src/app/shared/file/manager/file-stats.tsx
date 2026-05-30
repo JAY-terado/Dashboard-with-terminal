@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Text, Button } from 'rizzui';
+import { Title, Text, Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import DocIcon from '@core/components/icons/doc-solid';
 import ImageIcon from '@core/components/icons/image-solid';

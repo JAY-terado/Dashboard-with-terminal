@@ -1,6 +1,6 @@
 'use client';
 
-import { Checkbox, Select } from 'rizzui';
+import { Checkbox, Select } from "@/components/rizzui";
 import { useEffect, useState } from 'react';
 import {
   InitialStateType,

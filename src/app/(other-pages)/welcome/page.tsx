@@ -1,6 +1,6 @@
 import Image from 'next/image';
-import { Button } from "rizzui";
-import { Title, Text } from "rizzui";
+import { Button } from "@/components/rizzui";
+import { Title, Text } from "@/components/rizzui";
 import LaptopImg from '@public/welcome-laptop.png';
 import MobileImg from '@public/welcome-mobile.png';
 

@@ -11,7 +11,7 @@ import {
   Button,
   NumberInput,
   NumberInputProps,
-} from 'rizzui';
+} from "@/components/rizzui";
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import { Form } from '@core/ui/form';
 import {

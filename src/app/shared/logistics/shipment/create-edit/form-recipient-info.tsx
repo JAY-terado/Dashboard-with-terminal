@@ -2,7 +2,7 @@
 
 import { Controller, useFormContext } from 'react-hook-form';
 import FormGroup from '@/app/shared/form-group';
-import { Input, Checkbox } from 'rizzui';
+import { Input, Checkbox } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiEnvelopeSimple } from 'react-icons/pi';
 

@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import { avatarIds } from '@core/utils/get-avatar';
 import { getRandomArrayElement } from '@core/utils/get-random-array-element';
-import { Title, Text, Avatar } from 'rizzui';
+import { Title, Text, Avatar } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { formatDate } from '@core/utils/format-date';
 import signature from '@public/client-signature.svg';

@@ -1,7 +1,7 @@
 'use client';
 
 import { PiMinusBold, PiPlusBold } from 'react-icons/pi';
-import { ActionIcon } from 'rizzui';
+import { ActionIcon } from "@/components/rizzui";
 import { useCart } from '@/store/quick-cart/cart.context';
 import { CartItem } from '@/types';
 

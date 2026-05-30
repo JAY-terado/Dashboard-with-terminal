@@ -4,7 +4,7 @@ import { routes } from '@/config/routes';
 import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
-import { Checkbox, Text } from 'rizzui';
+import { Checkbox, Text } from "@/components/rizzui";
 import { getStatusBadge } from '@core/components/table-utils/get-status-badge';
 import TableRowActionGroup from '@core/components/table-utils/table-row-action-group';
 import { InvoiceTableDataType } from './table';

@@ -2,7 +2,7 @@
 
 import WidgetCard from '@core/components/cards/widget-card';
 import { PiChartBarLight } from 'react-icons/pi';
-import { Title, Text } from 'rizzui';
+import { Title, Text } from "@/components/rizzui";
 import {
   AreaChart,
   Area,

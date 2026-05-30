@@ -2,7 +2,7 @@
 
 import { useCallback } from 'react';
 import { useFieldArray, useFormContext } from 'react-hook-form';
-import { Input, Button, ActionIcon } from 'rizzui';
+import { Input, Button, ActionIcon } from "@/components/rizzui";
 import TrashIcon from '@core/components/icons/trash';
 import { customFields } from '@/app/shared/ecommerce/product/create-edit/form-utils';
 import { PiPlusBold } from 'react-icons/pi';

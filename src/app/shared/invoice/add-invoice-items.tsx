@@ -1,6 +1,6 @@
 'use client';
 
-import { Text, Button, Input, Textarea, ActionIcon } from 'rizzui';
+import { Text, Button, Input, Textarea, ActionIcon } from "@/components/rizzui";
 import { useFieldArray, Controller } from 'react-hook-form';
 import { useEffect, useState } from 'react';
 import { calculateTotalPrice } from '@core/utils/calculate-total-price';

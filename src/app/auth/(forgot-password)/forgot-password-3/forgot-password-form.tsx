@@ -5,7 +5,7 @@ import { useState } from 'react';
 import toast from 'react-hot-toast';
 import { SubmitHandler } from 'react-hook-form';
 import { routes } from '@/config/routes';
-import { Input, Button, Text } from 'rizzui';
+import { Input, Button, Text } from "@/components/rizzui";
 import { Form } from '@core/ui/form';
 import { useMedia } from '@core/hooks/use-media';
 import {

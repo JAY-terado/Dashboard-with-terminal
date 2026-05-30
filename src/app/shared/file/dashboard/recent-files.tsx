@@ -3,7 +3,7 @@
 import { Card } from '@/app/shared/file/manager/file-grid/grid';
 import FolderIcon from '@core/components/icons/folder-solid';
 import Link from 'next/link';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 
 const recentFiles = [
   {

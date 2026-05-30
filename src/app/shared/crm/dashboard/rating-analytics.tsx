@@ -1,6 +1,6 @@
 'use client';
 
-import { Box, Flex } from 'rizzui';
+import { Box, Flex } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import { RadialBarChart, RadialBar, ResponsiveContainer } from 'recharts';

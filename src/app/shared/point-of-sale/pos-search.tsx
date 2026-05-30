@@ -1,6 +1,6 @@
 'use client';
 
-import { Input } from 'rizzui';
+import { Input } from "@/components/rizzui";
 import { PiMagnifyingGlassBold } from 'react-icons/pi';
 import { atom, useAtom } from 'jotai';
 

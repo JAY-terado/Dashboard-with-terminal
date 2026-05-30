@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { FiSave } from 'react-icons/fi';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useMedia } from '@core/hooks/use-media';
 import { siteConfig } from '@/config/site.config';

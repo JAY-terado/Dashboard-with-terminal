@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge, Button } from 'rizzui';
+import { Badge, Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { initialState } from '@/app/shared/explore-nft/nft-filter-utils';
 import { useFilterControls } from '@core/hooks/use-filter-control';

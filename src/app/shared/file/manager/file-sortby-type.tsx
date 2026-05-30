@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Popover } from 'rizzui';
+import { Button, Popover } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import DocIcon from '@core/components/icons/doc-solid';
 import FolderIcon from '@core/components/icons/folder-solid';

@@ -5,7 +5,7 @@ import dynamic from 'next/dynamic';
 import { useCart } from '@/store/quick-cart/cart.context';
 import FloatingCartButton from '@/app/shared/floating-cart-button';
 import POSDrawerView from '@/app/shared/point-of-sale/pos-drawer-view';
-import { Drawer } from "rizzui";
+import { Drawer } from "@/components/rizzui";
 // const Drawer = dynamic(() => import('rizzui').then((module) => module.Drawer), {
 //   ssr: false,
 // });

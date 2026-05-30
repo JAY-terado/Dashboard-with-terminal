@@ -26,7 +26,7 @@ import {
   Select,
   Text,
   Title,
-} from 'rizzui';
+} from "@/components/rizzui";
 import { z } from 'zod';
 
 const QuillEditor = dynamic(() => import('@core/ui/quill-editor'), {

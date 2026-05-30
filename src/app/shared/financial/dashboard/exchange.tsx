@@ -9,7 +9,7 @@ import {
   PiCurrencyJpyBold,
   PiWalletLight,
 } from 'react-icons/pi';
-import { Input, Button, Popover, Title, Text } from 'rizzui';
+import { Input, Button, Popover, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import ExchangeIcon from '@core/components/icons/exchange';
 import WidgetCard from '@core/components/cards/widget-card';

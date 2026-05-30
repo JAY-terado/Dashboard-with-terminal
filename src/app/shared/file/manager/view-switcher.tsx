@@ -2,7 +2,7 @@
 
 import { useCallback } from 'react';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
-import { ActionIcon } from 'rizzui';
+import { ActionIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiGridFour, PiListBullets } from 'react-icons/pi';
 

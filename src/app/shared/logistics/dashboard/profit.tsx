@@ -14,7 +14,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Button, Title } from 'rizzui';
+import { Button, Title } from "@/components/rizzui";
 
 type DataType = {
   name: string;

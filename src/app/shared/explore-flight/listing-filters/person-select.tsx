@@ -3,7 +3,7 @@
 import { Listbox } from '@headlessui/react';
 import { useState } from 'react';
 import QuantityInput from '@/app/shared/explore-flight/listing-filters/quantity-input';
-import { Button, Radio } from 'rizzui';
+import { Button, Radio } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 interface selectedProps {

@@ -4,7 +4,7 @@ import Link from 'next/link';
 import logoImg from '@public/logo-primary.svg';
 import logoImgText from '@public/logo-primary-text.svg';
 import Image from 'next/image';
-import { Button, Title, Text } from 'rizzui';
+import { Button, Title, Text } from "@/components/rizzui";
 import { PiAppleLogoFill, PiArrowLeftBold } from 'react-icons/pi';
 import { FcGoogle } from 'react-icons/fc';
 import OrSeparation from '@/app/shared/auth-layout/or-separation';

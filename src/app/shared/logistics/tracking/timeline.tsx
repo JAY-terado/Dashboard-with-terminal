@@ -2,7 +2,7 @@
 
 import { useRef } from 'react';
 import { Link } from 'react-scroll';
-import { Title, Text } from 'rizzui';
+import { Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiArrowDownBold, PiTriangle } from 'react-icons/pi';
 

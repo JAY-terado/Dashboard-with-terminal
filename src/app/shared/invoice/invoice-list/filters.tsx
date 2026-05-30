@@ -18,7 +18,7 @@ import {
   PiTrashDuotone,
 } from 'react-icons/pi';
 import { useMedia } from 'react-use';
-import { Button, Flex, Input } from 'rizzui';
+import { Button, Flex, Input } from "@/components/rizzui";
 import ToggleColumns from '@core/components/table-utils/toggle-columns';
 
 interface TableToolbarProps<T extends Record<string, any>> {

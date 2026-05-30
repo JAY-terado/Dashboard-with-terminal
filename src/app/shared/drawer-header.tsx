@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, ActionIcon } from 'rizzui';
+import { Title, ActionIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiXBold } from 'react-icons/pi';
 

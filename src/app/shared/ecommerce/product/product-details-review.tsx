@@ -1,7 +1,7 @@
 'use client';
 
 import { PiCaretDownBold } from 'react-icons/pi';
-import { Collapse } from 'rizzui';
+import { Collapse } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import ReviewCard from '@core/components/cards/review-card';
 import ProductReviewForm from './product-review-form';

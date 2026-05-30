@@ -3,7 +3,7 @@
 import WidgetCard from '@core/components/cards/widget-card';
 import DropdownAction from '@core/components/charts/dropdown-action';
 import cn from '@core/utils/class-names';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 
 import { burnData, financialViewOptions } from '@/data/financial-data';
 import { CustomTooltip } from '@core/components/charts/custom-tooltip';

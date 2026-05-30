@@ -6,7 +6,7 @@ import {
   SelectOption,
   SelectProps,
   Text,
-} from 'rizzui';
+} from "@/components/rizzui";
 import { socialMediaOptions } from '@/data/social-media-dashboard-data';
 import { PiCheck, PiPlusCircle } from 'react-icons/pi';
 import cn from '@core/utils/class-names';

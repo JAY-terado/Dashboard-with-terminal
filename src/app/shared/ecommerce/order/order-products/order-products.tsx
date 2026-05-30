@@ -3,7 +3,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Table, { HeaderCell } from '@core/components/legacy-table';
-import { Checkbox, Loader, Title, Text } from 'rizzui';
+import { Checkbox, Loader, Title, Text } from "@/components/rizzui";
 import { useTable } from '@core/hooks/use-table';
 import DeletePopover from '@core/components/delete-popover';
 

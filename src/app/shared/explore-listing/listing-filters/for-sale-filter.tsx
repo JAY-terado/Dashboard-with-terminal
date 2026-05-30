@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Radio, Button } from 'rizzui';
+import { Radio, Button } from "@/components/rizzui";
 import { useMedia } from '@core/hooks/use-media';
 import { InitialStateType, forsaleData } from './filter-utils';
 

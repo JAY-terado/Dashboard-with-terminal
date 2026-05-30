@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Flex, Input } from 'rizzui';
+import { Button, Flex, Input } from "@/components/rizzui";
 import { appointmentTypes } from '@/data/appointment-data';
 import { type Table as ReactTableType } from '@tanstack/react-table';
 import StatusField from '@core/components/controlled-table/status-field';

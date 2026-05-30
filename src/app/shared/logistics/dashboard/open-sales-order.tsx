@@ -12,7 +12,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Progressbar } from 'rizzui';
+import { Progressbar } from "@/components/rizzui";
 
 const data = [
   {

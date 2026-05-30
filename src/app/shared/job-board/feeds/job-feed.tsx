@@ -7,7 +7,7 @@ import cn from '@core/utils/class-names';
 import SingleJob from './single-job-page';
 import JobFeedRating from './job-feed-rating';
 import Breadcrumb from '@core/ui/breadcrumb';
-import { Button, Text, Title } from 'rizzui';
+import { Button, Text, Title } from "@/components/rizzui";
 import { JobFeedFilterDrawer } from './job-feed-filter';
 import { type JobType, jobFeedData } from '@/data/job-feed-data';
 import {

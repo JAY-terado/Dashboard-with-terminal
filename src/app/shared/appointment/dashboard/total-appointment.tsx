@@ -18,7 +18,7 @@ import TrendingUpIcon from '@core/components/icons/trending-up';
 import cn from '@core/utils/class-names';
 import { formatNumber } from '@core/utils/format-number';
 import { useTheme } from 'next-themes';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 
 const data = [
   {

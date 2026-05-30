@@ -1,7 +1,7 @@
 'use client ';
 import { z } from 'zod';
 import { Controller, useFormContext } from 'react-hook-form';
-import { Input, Radio, RadioGroup } from 'rizzui';
+import { Input, Radio, RadioGroup } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 interface BasicInfoProps {

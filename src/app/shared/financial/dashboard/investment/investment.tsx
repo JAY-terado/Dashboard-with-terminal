@@ -12,7 +12,7 @@ import {
   getCircleStyles,
 } from '@/app/shared/financial/dashboard/investment/investment-utils';
 import { useDirection } from '@core/hooks/use-direction';
-import { Title } from 'rizzui';
+import { Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 type InvestmentProps = {

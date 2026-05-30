@@ -16,7 +16,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Text, Title } from 'rizzui';
+import { Text, Title } from "@/components/rizzui";
 
 const data = [
   {

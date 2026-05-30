@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { CheckboxGroup, Checkbox, Button } from 'rizzui';
+import { CheckboxGroup, Checkbox, Button } from "@/components/rizzui";
 import { useMedia } from '@core/hooks/use-media';
 import {
   InitialStateType,

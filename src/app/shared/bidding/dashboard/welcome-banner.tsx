@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import { Box } from "rizzui";
-import { Flex } from "rizzui";
-import { Text, Title } from "rizzui";
+import { Box } from "@/components/rizzui";
+import { Flex } from "@/components/rizzui";
+import { Text, Title } from "@/components/rizzui";
 
 const counterData = [
   {

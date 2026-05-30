@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import cn from '@core/utils/class-names';
-import { Badge, Button } from 'rizzui';
+import { Badge, Button } from "@/components/rizzui";
 
 export default function JobBadge({ skills }: { skills: string[] }) {
   const [initialCount, setInitialCount] = useState(5);

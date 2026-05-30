@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { Text, Checkbox, Flex } from 'rizzui';
+import { Text, Checkbox, Flex } from "@/components/rizzui";
 import { HeaderCell } from '@core/components/legacy-table';
 import { toCurrency } from '@core/utils/to-currency';
 import AvatarCard from '@core/ui/avatar-card';

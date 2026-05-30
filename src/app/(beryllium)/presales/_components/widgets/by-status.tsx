@@ -1,6 +1,6 @@
 'use client';
 
-import { Title, Text, Button } from 'rizzui';
+import { Title, Text, Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 const statusData = [

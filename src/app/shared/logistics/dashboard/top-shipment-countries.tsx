@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import WorldMap from 'react-svg-worldmap';
 import WidgetCard from '@core/components/cards/widget-card';
-import { Text, Badge } from 'rizzui';
+import { Text, Badge } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { DatePicker } from '@core/ui/datepicker';
 import { useElementSize } from '@core/hooks/use-element-size';

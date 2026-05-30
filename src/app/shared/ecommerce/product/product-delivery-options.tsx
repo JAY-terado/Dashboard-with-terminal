@@ -2,7 +2,7 @@
 
 import { SubmitHandler } from 'react-hook-form';
 import { Form } from '@core/ui/form';
-import { Input, Button, Text, Collapse } from 'rizzui';
+import { Input, Button, Text, Collapse } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useState } from 'react';
 import { PiCaretDownBold } from 'react-icons/pi';

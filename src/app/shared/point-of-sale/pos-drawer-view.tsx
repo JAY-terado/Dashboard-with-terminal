@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import type { CartItem } from '@/types';
 import toast from 'react-hot-toast';
-import { Button, EmptyProductBoxIcon, Title, Text } from 'rizzui';
+import { Button, EmptyProductBoxIcon, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { useCart } from '@/store/quick-cart/cart.context';
 import POSOrderProducts from '@/app/shared/point-of-sale/pos-order-products';

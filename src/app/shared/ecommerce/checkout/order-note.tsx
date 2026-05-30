@@ -1,7 +1,7 @@
 'use client';
 
 import { useFormContext } from 'react-hook-form';
-import { Textarea } from 'rizzui';
+import { Textarea } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 interface OrderNoteProps {

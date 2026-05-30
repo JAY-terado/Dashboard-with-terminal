@@ -1,6 +1,6 @@
 'use client';
 
-import { ActionIcon, Title, Text } from 'rizzui';
+import { ActionIcon, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import { PiSlidersHorizontalDuotone } from 'react-icons/pi';

@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import ProductModernCard from '@core/components/cards/product-modern-card';
 import { modernProductsGrid } from '@/data/shop-products';
 import hasSearchedParams from '@core/utils/has-searched-params';

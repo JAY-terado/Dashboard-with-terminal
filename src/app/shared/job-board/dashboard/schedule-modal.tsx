@@ -11,7 +11,7 @@ import {
   Text,
   Textarea,
   Title,
-} from 'rizzui';
+} from "@/components/rizzui";
 
 import { useModal } from '@/app/shared/modal-views/use-modal';
 import cn from '@core/utils/class-names';

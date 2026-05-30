@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Flex, Input } from 'rizzui';
+import { Button, Flex, Input } from "@/components/rizzui";
 import { shippingStatuses } from '@/data/shipment-data';
 import StatusField from '@core/components/controlled-table/status-field';
 import DateFiled from '@core/components/controlled-table/date-field';

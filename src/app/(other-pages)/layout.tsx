@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import Link from 'next/link';
-import { Button } from 'rizzui';
+import { Button } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import SocialItems from '@core/ui/social-shares';
 import { usePathname, useRouter } from 'next/navigation';

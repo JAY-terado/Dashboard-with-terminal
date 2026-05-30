@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Loader } from 'rizzui';
+import { Button, Loader } from "@/components/rizzui";
 import { fileGridData } from '@/data/file-grid-data';
 import { useGrid } from '@/app/shared/file/manager/file-grid/use-grid';
 import Grid from '@/app/shared/file/manager/file-grid/grid';

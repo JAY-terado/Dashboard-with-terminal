@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge, Avatar, Button, Title, Text } from 'rizzui';
+import { Badge, Avatar, Button, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import TrophyIcon from '@core/components/icons/trophy';

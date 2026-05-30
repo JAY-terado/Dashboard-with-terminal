@@ -5,7 +5,7 @@ import toast from 'react-hot-toast';
 import { SubmitHandler, Controller } from 'react-hook-form';
 import { PiClock, PiEnvelopeSimple } from 'react-icons/pi';
 import { Form } from '@core/ui/form';
-import { Loader, Text, Input, Select } from 'rizzui';
+import { Loader, Text, Input, Select } from "@/components/rizzui";
 import FormGroup from '@/app/shared/form-group';
 import FormFooter from '@core/components/form-footer';
 import {

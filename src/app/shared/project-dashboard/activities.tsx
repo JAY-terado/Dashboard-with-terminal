@@ -18,7 +18,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Box, Flex } from 'rizzui';
+import { Box, Flex } from "@/components/rizzui";
 
 export default function ProjectActivities({
   className,

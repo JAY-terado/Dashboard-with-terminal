@@ -1,6 +1,6 @@
 'use client';
 
-import { Text } from 'rizzui';
+import { Text } from "@/components/rizzui";
 import { useState } from 'react';
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';

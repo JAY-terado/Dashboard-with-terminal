@@ -1,6 +1,6 @@
 'use client';
 
-import { Button, Select } from 'rizzui';
+import { Button, Select } from "@/components/rizzui";
 import { useFilterControls } from '@core/hooks/use-filter-control';
 import { useDrawer } from '@/app/shared/drawer-views/use-drawer';
 import hasSearchedParams from '@core/utils/has-searched-params';

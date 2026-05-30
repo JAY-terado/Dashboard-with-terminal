@@ -7,7 +7,7 @@ import VisaIcon from '@core/components/icons/visa';
 import AvatarCard from '@core/ui/avatar-card';
 import DateCell from '@core/ui/date-cell';
 import { createColumnHelper } from '@tanstack/react-table';
-import { Checkbox, Text } from 'rizzui';
+import { Checkbox, Text } from "@/components/rizzui";
 import { TransactionHistoryDataType } from '.';
 
 const statusColorClassName = {

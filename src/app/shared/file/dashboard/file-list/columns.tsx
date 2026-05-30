@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import { FileListDataType } from '.';
 import DateCell from '@core/ui/date-cell';
-import { Box, Flex, Text } from 'rizzui';
+import { Box, Flex, Text } from "@/components/rizzui";
 import Favorite from '@/app/shared/file/manager/favorite';
 import { createColumnHelper } from '@tanstack/react-table';
 import { MoreActions } from '@core/components/table-utils/more-actions';

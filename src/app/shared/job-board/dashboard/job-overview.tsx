@@ -25,7 +25,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { Flex, Text, Title } from 'rizzui';
+import { Flex, Text, Title } from "@/components/rizzui";
 
 export default function JobOverview({ className }: { className?: string }) {
   const [data, setData] = useState(jobOverviewDailyData);

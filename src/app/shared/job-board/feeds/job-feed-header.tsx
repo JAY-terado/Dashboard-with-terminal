@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { Text, Title } from 'rizzui';
+import { Text, Title } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { jobFeedBannerLogo, jobFeedLogo } from '@/data/job-feed-data';
 

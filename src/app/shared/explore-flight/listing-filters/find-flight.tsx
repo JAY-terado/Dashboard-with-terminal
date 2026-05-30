@@ -13,7 +13,7 @@ import {
   PiX,
   PiXBold,
 } from 'react-icons/pi';
-import { ActionIcon, Button, Popover, Title } from 'rizzui';
+import { ActionIcon, Button, Popover, Title } from "@/components/rizzui";
 
 const FlightFilterSidebar = dynamic(
   () => import('@/app/shared/explore-flight/flight-filter-sidebar'),

@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { useFormContext, useWatch } from 'react-hook-form';
 import { PiCheckCircleFill, PiQuestionFill } from 'react-icons/pi';
 import { shippingMethodData, shippingSpeedData } from '@/data/checkout-data';
-import { AdvancedRadio, FieldError, Title, Text } from 'rizzui';
+import { AdvancedRadio, FieldError, Title, Text } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 
 export default function ShippingMethod({ className }: { className?: string }) {

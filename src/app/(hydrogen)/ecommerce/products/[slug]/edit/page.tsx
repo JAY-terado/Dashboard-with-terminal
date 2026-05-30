@@ -5,7 +5,7 @@ import { productData } from '@/app/shared/ecommerce/product/create-edit/form-uti
 import CreateEditProduct from '@/app/shared/ecommerce/product/create-edit';
 import PageHeader from '@/app/shared/page-header';
 import { metaObject } from '@/config/site.config';
-import { Button } from "rizzui";
+import { Button } from "@/components/rizzui";
 import { routes } from '@/config/routes';
 
 type Props = {

@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
-import { Button, Input, Title, Text, Switch, ActionIcon } from 'rizzui';
+import { Button, Input, Title, Text, Switch, ActionIcon } from "@/components/rizzui";
 import cn from '@core/utils/class-names';
 import { PiMagnifyingGlass, PiX } from 'react-icons/pi';
 import { teams } from '@/data/teams-data';

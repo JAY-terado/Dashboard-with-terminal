@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { routes } from '@/config/routes';
-import { Button, Title } from 'rizzui';
+import { Button, Title } from "@/components/rizzui";
 import ProductModernCard from '@core/components/cards/product-modern-card';
 import { similarProducts } from '@/data/similar-products-data';
 
