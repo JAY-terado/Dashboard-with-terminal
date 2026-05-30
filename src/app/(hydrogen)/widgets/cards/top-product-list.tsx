@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import WidgetCard from '@core/components/cards/widget-card';
-import { Button } from 'rizzui/button';
-import { Text } from 'rizzui/typography';
+import { Button } from "rizzui";
+import { Text } from "rizzui";
 import { topProductList } from '@/data/top-products-data';
 import Rating from '@core/components/rating';
 

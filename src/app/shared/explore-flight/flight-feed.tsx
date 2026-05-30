@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { shuffle } from 'lodash';
-import { Button } from 'rizzui/button';
+import { Button } from "rizzui";
 import hasSearchedParams from '@core/utils/has-searched-params';
 import FlightBookingCard from '@core/components/cards/flight-booking-card';
 import { Tags } from '@/app/shared/explore-flight/listing-filters/tags';

@@ -3,8 +3,8 @@
 import Link from 'next/link';
 import { Fragment } from 'react';
 import { usePathname } from 'next/navigation';
-import { Title } from 'rizzui/typography';
-import { Collapse } from 'rizzui/collapse';
+import { Title } from "rizzui";
+import { Collapse } from "rizzui";
 import cn from '@core/utils/class-names';
 import { PiCaretDownBold } from 'react-icons/pi';
 import { menuItems } from '@/layouts/hydrogen/menu-items';

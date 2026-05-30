@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { Title, Text } from 'rizzui/typography';
+import { Title, Text } from "rizzui";
 import cn from '@core/utils/class-names';
 import { members } from '@/data/members-data';
 import TrophyIcon from '@core/components/icons/trophy';

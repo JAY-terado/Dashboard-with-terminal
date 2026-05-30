@@ -59,6 +59,8 @@ export interface TableProps
   components?: any;
   /** Sticky header (optional) */
   stickyHeader?: boolean;
+  /** Allow any other properties for custom wrappers */
+  [key: string]: any;
 }
 
 /**

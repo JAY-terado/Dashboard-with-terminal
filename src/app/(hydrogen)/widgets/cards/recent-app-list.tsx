@@ -1,6 +1,6 @@
 import WidgetCard from '@core/components/cards/widget-card';
-import { Button } from 'rizzui/button';
-import { Title, Text } from 'rizzui/typography';
+import { Button } from "rizzui";
+import { Title, Text } from "rizzui";
 import { teams as apps } from '@/data/teams-data';
 import { PiArrowLineUpRightBold } from 'react-icons/pi';
 

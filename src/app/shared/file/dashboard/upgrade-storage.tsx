@@ -1,6 +1,6 @@
 import BannerCard from '@core/components/banners/banner-card';
 import Link from 'next/link';
-import { Text } from 'rizzui/typography';
+import { Text } from "rizzui";
 import { PiCheckCircleFill } from 'react-icons/pi';
 
 const features = [

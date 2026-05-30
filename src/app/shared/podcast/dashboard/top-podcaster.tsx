@@ -2,10 +2,10 @@ import { topPodcasters } from '@/data/podcasts-data';
 import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import Image from 'next/image';
-import { Box } from 'rizzui/box';
-import { Button } from 'rizzui/button';
-import { Flex } from 'rizzui/flex';
-import { Text, Title } from 'rizzui/typography';
+import { Box } from "rizzui";
+import { Button } from "rizzui";
+import { Flex } from "rizzui";
+import { Text, Title } from "rizzui";
 
 type PodcasterType = (typeof topPodcasters)[0];
 

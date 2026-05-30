@@ -1,5 +1,5 @@
-import { Button } from 'rizzui/button';
-import { Title, Text } from 'rizzui/typography';
+import { Button } from "rizzui";
+import { Title, Text } from "rizzui";
 import cn from '@core/utils/class-names';
 import WidgetCard from '@core/components/cards/widget-card';
 import { transactions } from '@/data/transactions-data';

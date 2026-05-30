@@ -1,6 +1,6 @@
 import Header from '@/app/multi-step-2/header';
 import Image from 'next/image';
-import { Box } from 'rizzui/box';
+import { Box } from "rizzui";
 
 export default function MultiStepLayoutTwo({
   children,

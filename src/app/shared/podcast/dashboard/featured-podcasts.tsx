@@ -4,10 +4,10 @@ import cn from '@core/utils/class-names';
 import Image from 'next/image';
 import Link from 'next/link';
 import { PiPlayCircleFill, PiPlayFill } from 'react-icons/pi';
-import { Box } from 'rizzui/box';
-import { Flex } from 'rizzui/flex';
-import { Grid } from 'rizzui/grid';
-import { Title } from 'rizzui/typography';
+import { Box } from "rizzui";
+import { Flex } from "rizzui";
+import { Grid } from "rizzui";
+import { Title } from "rizzui";
 
 type FeaturedPodcastType = (typeof featuredCreatorsPodcasts)[0];
 

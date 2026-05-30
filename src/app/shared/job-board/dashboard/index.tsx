@@ -1,4 +1,4 @@
-import { Box } from 'rizzui/box';
+import { Box } from "rizzui";
 import ActiveUsers from './active-users';
 import AllJobsTable from './alljobs-table';
 import DeviceAnalytics from './device-analytics';

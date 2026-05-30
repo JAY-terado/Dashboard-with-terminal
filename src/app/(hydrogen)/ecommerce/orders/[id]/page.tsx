@@ -1,4 +1,4 @@
-import { Button } from 'rizzui/button';
+import { Button } from "rizzui";
 import { routes } from '@/config/routes';
 import PageHeader from '@/app/shared/page-header';
 import Link from 'next/link';

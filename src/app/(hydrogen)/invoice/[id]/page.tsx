@@ -3,7 +3,7 @@ import InvoiceDetails from '@/app/shared/invoice/invoice-details';
 import PrintButton from '@/app/shared/print-button';
 import PageHeader from '@/app/shared/page-header';
 import { metaObject } from '@/config/site.config';
-import { Button } from 'rizzui/button';
+import { Button } from "rizzui";
 import { routes } from '@/config/routes';
 
 export const metadata = {

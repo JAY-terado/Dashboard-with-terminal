@@ -3,11 +3,11 @@ import WidgetCard from '@core/components/cards/widget-card';
 import cn from '@core/utils/class-names';
 import Image from 'next/image';
 import { PiShareFat } from 'react-icons/pi';
-import { ActionIcon } from 'rizzui/action-icon';
-import { Box } from 'rizzui/box';
-import { Flex } from 'rizzui/flex';
-import { Grid } from 'rizzui/grid';
-import { Text, Title } from 'rizzui/typography';
+import { ActionIcon } from "rizzui";
+import { Box } from "rizzui";
+import { Flex } from "rizzui";
+import { Grid } from "rizzui";
+import { Text, Title } from "rizzui";
 
 type PlaylistType = (typeof favouritePlaylist)[0];
 
